@@ -1,0 +1,3027 @@
+[
+  {
+    "id": "paperology-025",
+    "original_page": 25,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 1,
+    "category": "cover-divider",
+    "text_slots": {
+      "5": "6. 부가가치 전략",
+      "6": "B. 기획자의 태도",
+      "7": "25",
+      "8": "PAPERLOGY",
+      "9": "附加價値",
+      "2": "신기술과 관련된 프로그램은 다 써볼 것명령어는 결국 ‘똑똑한’ 인간이 채우는 것"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-044",
+    "original_page": 44,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 2,
+    "category": "cover-divider",
+    "text_slots": {
+      "22": "WE DESIGN",
+      "20": "INNOVATION",
+      "24": "현재 슬로건"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-050",
+    "original_page": 50,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 3,
+    "category": "cover-divider",
+    "text_slots": {
+      "6": "어디를 어떻게 숫자로",
+      "8": "PRINCIPLE 04"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-055",
+    "original_page": 55,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 4,
+    "category": "cover-divider",
+    "text_slots": {
+      "2": "수치화의 장점주관이 객관으로"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-106",
+    "original_page": 106,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 5,
+    "category": "cover-divider",
+    "text_slots": {
+      "16": "SO WHAT",
+      "17": "A Magical Solution"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-125",
+    "original_page": 125,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 6,
+    "category": "cover-divider",
+    "text_slots": {
+      "8": "목적에 따른 PPT의 두 가지 유형",
+      "9": "결론부터 말하기 혹은결론을 나중에 말하기"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-127",
+    "original_page": 127,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 7,
+    "category": "cover-divider",
+    "text_slots": {
+      "4": "결론부터 말하기 PREP",
+      "5": "효율성을 극대화하는 방식으로 사내 피피티에서 주로 사용상대방에게 최단 시간 안에 필요한 것만 전달 가능다이렉트한 커뮤니케이션 방식으로 사외 피피티에서는주의해서 사용해야 하는 경우가 있다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-137",
+    "original_page": 137,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 8,
+    "category": "cover-divider",
+    "text_slots": {
+      "8": "논리와 정렬."
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-142",
+    "original_page": 142,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 9,
+    "category": "cover-divider",
+    "text_slots": {
+      "4": "멀티패키지를 통한전주 한옥마을공간 재구성 제안",
+      "5": "페이퍼로지",
+      "9": "187P 제안서 요약본",
+      "11": "발표자의 긴장 완화 및 기대감 증폭을목적으로 한 표지 동영상 삽입"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-146",
+    "original_page": 146,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 10,
+    "category": "cover-divider",
+    "text_slots": {
+      "10": "시작점.",
+      "14": "일부러 찾아와 주기 위한 공간이 되기 위해시작점의 가치를 되찾다.",
+      "2": "본격적인 아이디어 제시 전, 목표제안남과 다른 단어를 쓰는 것이 매우 중요"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-152",
+    "original_page": 152,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 11,
+    "category": "cover-divider",
+    "text_slots": {
+      "17": "매니페스토",
+      "4": "우리가 어떤 철학, 인문학, 문학적 배경을 가지고이번 기획에 접근했는지 숫자와 이성을 제외한 논리를 최대한 담는 구간"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-173",
+    "original_page": 173,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 12,
+    "category": "cover-divider",
+    "text_slots": {
+      "17": "바볼랏",
+      "15": "2022 SEOUL",
+      "14": "럭셔리웨어"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-204",
+    "original_page": 204,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 13,
+    "category": "cover-divider",
+    "text_slots": {
+      "7": "피피티의     은 내용"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-217",
+    "original_page": 217,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 14,
+    "category": "cover-divider",
+    "text_slots": {
+      "4": "미니멀리즘"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-218",
+    "original_page": 218,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 15,
+    "category": "cover-divider",
+    "text_slots": {
+      "4": "진실은 시와 같다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-251",
+    "original_page": 251,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 16,
+    "category": "cover-divider",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-258",
+    "original_page": 258,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 17,
+    "category": "cover-divider",
+    "text_slots": {
+      "59": "2025 기아자동차광고 콘셉트 제안",
+      "60": "페이퍼로지"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-259",
+    "original_page": 259,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 18,
+    "category": "cover-divider",
+    "text_slots": {
+      "59": "이마트 신규 직영점지역 상권 분석",
+      "60": "페이퍼로지"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-267",
+    "original_page": 267,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 19,
+    "category": "cover-divider",
+    "text_slots": {
+      "6": "좋은 기획자는같은 걸 팔아도밸류를 붙인다",
+      "7": "살아남는 기획자의 가격 설정 전략과브랜딩의 필수 요소 분석"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-302",
+    "original_page": 302,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 20,
+    "category": "cover-divider",
+    "text_slots": {
+      "3": "Thank YouFor Your Attention",
+      "2": "PT의 마지막장을누구나 하는 방식으로 진행할 때"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-313",
+    "original_page": 313,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 21,
+    "category": "cover-divider",
+    "text_slots": {
+      "4": "단어",
+      "11": "세가지",
+      "12": "좋은 기획자가 되는, 좋은 기획서를 쓰는"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-314",
+    "original_page": 314,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 22,
+    "category": "cover-divider",
+    "text_slots": {
+      "3": "문장구조·위화감·감정"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-329",
+    "original_page": 329,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 23,
+    "category": "cover-divider",
+    "text_slots": {
+      "8": " ④ 언제 담당하게 될 줄 모르는 생경한 브랜드에 대비",
+      "9": "나와 멀리 떨어져 있는명품샵이 보일 때마다 들어가는 이유"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-344",
+    "original_page": 344,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 24,
+    "category": "cover-divider",
+    "text_slots": {
+      "8": "나의 메모가 해외 판권 수출로"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-353",
+    "original_page": 353,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 25,
+    "category": "cover-divider",
+    "text_slots": {
+      "6": "성림첨단산업(주)Investor Relations 2023",
+      "12": "SGI. World’s LeadingRare Earth Magnet Component"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-356",
+    "original_page": 356,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 26,
+    "category": "cover-divider",
+    "text_slots": {
+      "9": "캐릭터들의새로운 활동공간,메타버스 구축",
+      "10": "기획자  페이퍼로지"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-365",
+    "original_page": 365,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 27,
+    "category": "cover-divider",
+    "text_slots": {
+      "17": "평소의 시간들이 쌓여좋은 기획자가 된다."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-378",
+    "original_page": 378,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 28,
+    "category": "cover-divider",
+    "text_slots": {
+      "2": "비용과 가치가 같다면고객은 불평하지 않겠지만다음에 만날 기회는 사라진다.",
+      "6": "마스다 무네아키,「취향을 설계하는 곳, 츠타야」 위즈덤하우스.",
+      "7": "OOOO에너지",
+      "8": "01 – 회사개요일반현황회사연혁핵심인력"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-442",
+    "original_page": 442,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 29,
+    "category": "cover-divider",
+    "text_slots": {
+      "8": "빠른 자료 작성을 위한 첫 걸음, 툴바세팅"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-483",
+    "original_page": 483,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 30,
+    "category": "cover-divider",
+    "text_slots": {
+      "17": "바볼랏",
+      "15": "2022 SEOUL",
+      "14": "럭셔리웨어"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-510",
+    "original_page": 510,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 31,
+    "category": "cover-divider",
+    "text_slots": {
+      "8": "패키지 시안 A"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-529",
+    "original_page": 529,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 32,
+    "category": "cover-divider",
+    "text_slots": {
+      "5": "생각하고",
+      "6": "글쓰고",
+      "7": "디자인하라"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-551",
+    "original_page": 551,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 33,
+    "category": "cover-divider",
+    "text_slots": {
+      "13": "젠터",
+      "9": "프레"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-554",
+    "original_page": 554,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 34,
+    "category": "cover-divider",
+    "text_slots": {
+      "5": "슬라이드메시지"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-558",
+    "original_page": 558,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 35,
+    "category": "cover-divider",
+    "text_slots": {
+      "10": "언어",
+      "16": "기획서의",
+      "17": "기획서가 술술 풀리는 말의 구조들! "
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-574",
+    "original_page": 574,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 36,
+    "category": "cover-divider",
+    "text_slots": {
+      "9": "페이퍼로지",
+      "11": "라이프 프로포절"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-577",
+    "original_page": 577,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 37,
+    "category": "cover-divider",
+    "text_slots": {
+      "7": "SLOGAN",
+      "8": "Just Like That",
+      "10": "프로들은 일을 복잡하게 하지 않는다누구보다 쉽고 빠르게 일을 하지만, 더 좋은 결과를 내는 프로가 된다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-593",
+    "original_page": 593,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 38,
+    "category": "cover-divider",
+    "text_slots": {
+      "10": "어제보다 무거운 무게어제보다 나은 업무력",
+      "7": "SLOGAN",
+      "9": "인생은 점진적 과부하"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-604",
+    "original_page": 604,
+    "pack": "assets/cover-divider.pptx",
+    "pack_page": 39,
+    "category": "cover-divider",
+    "text_slots": {
+      "11": "정사각형과 대각선, 통행금지, 피라미드를 하늘에서, 연"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-009",
+    "original_page": 9,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 1,
+    "category": "white-report",
+    "text_slots": {
+      "6": "프로젝트의 대제목을 여기에 넣겠습니다",
+      "14": "매니저, WorldWide 펀드별 모니터링 항목 및 지표 설정",
+      "10": "여기에는 대제목을강조해서 넣어주시면되며 최대 4줄을추천합니다.",
+      "11": "현재 위치 및 목차를 여기에 넣겠습니다",
+      "16": "내가 먼저 주문했는데 옆자리의 내말이메뉴가 먼저 나왔다. 이해는 된다.간단한 메뉴였으니 이렇게 최대 3줄",
+      "17": "단기자금 운용팀",
+      "18": "중기자금 운용팀",
+      "19": "장기자금 운용팀",
+      "20": "일반자금 운용팀",
+      "21": "특수자금 운용팀",
+      "32": "스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. 스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. 스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. 스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. 스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. ",
+      "44": "도전적환경",
+      "2": "PAPERLOGY",
+      "5": "9"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-010",
+    "original_page": 10,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 2,
+    "category": "white-report",
+    "text_slots": {
+      "4": "10",
+      "20": "근로자의 고용·생활안정을위해 설립된고용보험기금.",
+      "24": "고용보험기금 사업에 대한 이해",
+      "5": "페이퍼로지",
+      "3": "I. 고용보험기금 운용에 대한 이해   ·   1. 고용보험에 대한 이해",
+      "6": "2023년 고용보험기금 여유자금 주간운용사 선정 제안서",
+      "36": "실업의 예방, 고용의 촉진 및 근로자의직업능력개발·향상, 실직근로자 등의 생활안정 및 재취업을 지원하는 사회보험제도 ",
+      "37": "고용보험사업의 재원 충당을 위해 고용보험법제78조에 따라 1995년 고용보험기금을 설치하고 고용노동부장관이 관리·운용",
+      "45": "실업급여사업 근로자·예술인·노무제공자가 비자발적인 실직 시 재취업 활동을 하는 기간에 생활안정 및 재취업을 지원모성보호제도 출산 및 육아로 인한 여성 근로자의 노동시장 이탈을 방지하고 고용유지 및 안정을 통해서 일·가정 양립을 지원",
+      "46": "고용안정사업 고용유자 or 실직자를 채용하여 고용을 늘리는 사업주를 지원. 근로자 고용안정 및 취약계층의 고용촉진을 지원 직업능력개발사업 사업주가 근로자를 대상으로 직업훈련을 시행하거나 근로자의 자기계발에 일정 훈련비용을 지원 ",
+      "58": "실업급여계정",
+      "52": "고안직능계정*",
+      "61": "저생산 저부가가치 산업에서 고생산 고부가가치 산업으로 인력이동을 지원함으로써 산업구조 인력구조의 고도화에 기여기업의 고용조정을 지원하여 기업의 경영합리화에 기여 ",
+      "63": "고용조정 및 경제적 효율성 제고",
+      "65": "실직자 및 가족의 생활안정은 가장 중요한 제도의 목적실업급여 지급, 고용정보 제공, 직업상담, 취업알선, 직업훈련안내 등 종합적인 고용서비스 제공으로 재취업 촉진",
+      "66": "실직자의 생활안정·재취업 촉진",
+      "67": "고용보험의 기능",
+      "69": "민간 주도의 자율적인 직업능력 개발사업의 교육훈련을 활성화함으로써 근로자의 노동생산성 향상과 고용안정은 물론 기업의 경쟁력 강화에 기여",
+      "70": "직업훈련으로 경쟁력 강화",
+      "72": "실직자의 자발적인 기관 등록을 통해 노동력의 이동 및 수급상황을 통합적으로 파악정확한 노동시장 정보를 제공하고 시장기능에 의한 인력수급기능을 강화하여, 노동시장의 유연성 향상",
+      "73": "직업안정 및 인력수급 원활화",
+      "75": "불황기에 실업급여 지급액이 증가하여 유효수요 부족으로 인한 경기침체를 완화하고 기업의 경영부담을 완화호황기에 기금 적립을 통해 유효수요를 감소시켜 경기에 대한 자동안정장치 기능 수행",
+      "76": "경기조절기능 수행",
+      "81": "* 고용안정직업능력개발계정",
+      "86": "설립목적",
+      "87": "주요사업",
+      "91": "제도",
+      "92": "기금",
+      "93": "실업급여계정",
+      "94": "고안직능계정"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-011",
+    "original_page": 11,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 3,
+    "category": "white-report",
+    "text_slots": {
+      "4": "11",
+      "20": "탄력적으로패시브·액티브비중을조정합니다. ",
+      "24": "고용보험기금 운용체계 및 특징",
+      "6": "페이퍼로지",
+      "11": "I. 고용보험기금 운용에 대한 이해   ·   2. 기금운용 프로세스에 대한 이해",
+      "13": "2023년 고용보험기금 여유자금 주간운용사 선정 제안서",
+      "5": "주요 자산의 성과부진에 따른 운용전략 점검은 필수입니다",
+      "7": "향후 경기침체 국면에서 운용성과의 불확실성이 더욱 확대될 것을 감안하면 현재의 패시브 중심의 운용전략을 점검하고 액티브 투자의 활용도를 높일 필요스타일 배분 중심의 액티브 전략 비중을 탄력적으로 조정하여 초과성과 시현 집중",
+      "8": "기금 전체 운용성과는 국내·외 주식의 성과에 기대는 사례 빈번포트폴리오 내 주요 자산인 국내채권은 4년 연속 벤치마크를 하회, 해외채권은 2년 연속 벤치마크를 하회하는 등 운용성과 부진",
+      "18": "현행 자산별 유니버스 구성이 운용전략을 수행하는데 적정성 검토      - (주식) 대형/소형, 가치/성장으로 분류한 유니버스      - (채권) 단기/중기/장기 듀레이션 중심으로 분류한 유니버스 다양한 스타일 팩터를 반영한 유니버스로 보기 어려움",
+      "21": "유니버스",
+      "22": "비중조정",
+      "32": "시장 변동성 확대 국면에서 패시브 전략과 액티브 전략간 비중 조정      - 약세장에서 방어 전략 필요 or 지수가 횡보하는 국면을 사전 분석      - 집단지성 + 시스템 활용을 통한 판단을 바탕으로 탄력적인 비중 조정",
+      "40": "수익성 제고를 위한 액티브 운용전략 강화"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-012",
+    "original_page": 12,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 4,
+    "category": "white-report",
+    "text_slots": {
+      "5": "변동성이 심한 단기자금에 대한 관리 필요",
+      "4": "12",
+      "20": "효율적인단기자금의관리 체계를구축하겠습니다. ",
+      "24": "고용보험기금 운용체계 및 특징",
+      "6": "페이퍼로지",
+      "11": "I. 고용보험기금 운용에 대한 이해   ·   2. 기금운용 프로세스에 대한 이해",
+      "13": "2023년 고용보험기금 여유자금 주간운용사 선정 제안서",
+      "7": "지출 규모와 일정은 COVID-19 국면 정상화로 일정 부분 안정화 예상되지만 경기침체 국면이 얼마나 지속되느냐에 따라 단기자금 변동성도 영향받을 것   효율적인 단기자금 관리체계로 기금의 지출 유동성 관리에 만전을 기할 필요",
+      "8": "단기자금 규모는 전체자금 대비 최대 25.87%까지 상승 (COVID-19의 여파)기금의 특성 상 경기 호황 시에는 안정적으로 단기자금 규모 유지 가능하지만, 경기 불황 시에는 사업비 증가로 단기자금 규모의 변동성이 심해지는 경향",
+      "18": "보험성 기금의 성격 상 극단적 상황에 대비한 지출이 중요      - 경기 정상 상황과 극단적 상황에서의 적정유동성 규모는 큰 차이      - 극단적인 지출에 대비하고자 할 경우 적정유동성 규모로 커버 불가능      - 정상·극단적 상황을 동시에 고려한 단기자금 산출 체계 검토",
+      "21": "규모산출",
+      "22": "지출대응",
+      "32": "기금의 자금 지출 수요에 정확한 대응을 위한 협의 일상화       - 기금 단기자금 직접운용 전담인력 배치 및 오퍼레이션 최적화      - 지출이 급격하게 증가할 것으로 예상되는 국면에서 선제적인 유동화 준비",
+      "40": "기금의 특성을 고려한 단기자금 관리 강화"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-013",
+    "original_page": 13,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 5,
+    "category": "white-report",
+    "text_slots": {
+      "5": "대체투자자산 내 특정 유형의 불확실성에 대비해야 합니다",
+      "4": "13",
+      "20": "기투자 대체자산의사후관리 및유동화 계획을수립하겠습니다. ",
+      "24": "고용보험기금 운용체계 및 특징",
+      "6": "페이퍼로지",
+      "11": "I. 고용보험기금 운용에 대한 이해   ·   2. 기금운용 프로세스에 대한 이해",
+      "13": "2023년 고용보험기금 여유자금 주간운용사 선정 제안서",
+      "7": "투자 당시 여건은 양호했을지라도 경기침체 국면에 진입하면서 보유한 대체투자자산도 불확실성 증가            (Exit 시점까지 상당한 시간이 소요되는 현재 포트폴리오 구성)향후 지출 증가 요인 발생 시 대체자산도 유동화 가능하도록 대응 필요 ",
+      "8": "COVID-19 국면에 진입하면서 사업비를 충당하기 위해 위험자산을 유동화하여 대응하고 대체투자자산은 보유 결정            (기타 대체는 COVID-19 국면 이전에 전액 회수) 투자건 검토 노력은 지속하고 있으나 신규투자는 중단한 상태이며, 성과시현에 집중",
+      "18": "세부유형 별 위험요인 분석 후 사후관리 방안 마련        - (부동산) 높은 해외 오피스 공실률, Exit 환경 악화        - (PEF·VC) IPO 시장 위축으로 Exit 옵션 감소하고 시장 위축        - Secondary 마켓 활용하는 등 경기 대응형 포트폴리오로 조정",
+      "21": "사후관리",
+      "22": "유동화",
+      "32": "비유동자산으로 1조 이상 묶이면서 기금의 공자기금 차입규모는 더 확대        - 대체투자 자산의 만기 시점과 현금흐름을 거시적 관점에서 관리 필요        - 불가피한 상황에서 대체자산의 환매 등 유동화 가능하도록 전략 수립 ",
+      "40": "철저한 대체자산 사후관리 및 유동화 전략 수립",
+      "14": "자료 : 고용보험기금 기금운용실적보고서"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-126",
+    "original_page": 126,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 6,
+    "category": "white-report",
+    "text_slots": {
+      "17": "감성보다 논리",
+      "18": "디자인보다 정렬",
+      "19": "결론부터 말하다",
+      "20": "사내 (일반 보고형) 피피티의 3요소"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-144",
+    "original_page": 144,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 7,
+    "category": "white-report",
+    "text_slots": {
+      "13": "온라인상 대표적부정적인 의견들",
+      "18": "한옥마을에는 먹을 만한 음식이 거의 없다. 일단 불친절하고 숙박거품은 너무하다고 생각한다. 정체불명 한복에 먹거리들, 예전에는 조용하니 좋았는데 다시는 가기 싫다. 관광지에 몰리는 연관성 없는 장사치들이 너무 많고 한옥마을인데 너무 뜬금없는 시설들이 많다. 문화는 사라지고 상술 및 돈독 오른 상인들의 집합체같은 공간이 되어버렸다.",
+      "23": "“한옥마을은 이미 문화가 사라진 돈독 오른 상인들의 집합체”",
+      "28": "FGI와 SURVEY가 안되는 상황에서는포털사이트 리뷰가 큰 도움"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-145",
+    "original_page": 145,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 8,
+    "category": "white-report",
+    "text_slots": {
+      "15": "전략은 없고, 상술만 남았다.",
+      "17": "50 %",
+      "19": "30 %",
+      "21": "20 %",
+      "22": "연관성 없는 상업시설",
+      "26": "재미 요소 부족",
+      "29": "과도한 가격 등",
+      "31": "발견한 문제의 원인을 파악하는 구간!제안서는 감성보다는 이성에 집중해야 하기에 숫자 적극 활용"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-150",
+    "original_page": 150,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 9,
+    "category": "white-report",
+    "text_slots": {
+      "3": "멀티 패키지 스토어",
+      "28": "한옥마을지도",
+      "29": "스타벅스커피숍",
+      "30": "기타 내부놀 거리",
+      "31": "인력거서비스",
+      "36": "포토존서비스",
+      "27": "가장 오래된 것과가장 새로운 것이 만나는 곳",
+      "21": "기획서의 기본은 Narrow Down입니다개요 후 디테일로 진입"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-176",
+    "original_page": 176,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 10,
+    "category": "white-report",
+    "text_slots": {
+      "3": "10일의 시간이 주어진다면5일을 생각, 3일을 글쓰기, 1일을 PPT 제작, 1일을 리뷰"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-231",
+    "original_page": 231,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 11,
+    "category": "white-report",
+    "text_slots": {
+      "15": "페이퍼로지 채널구독과 좋아요제발 부탁드려요"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-232",
+    "original_page": 232,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 12,
+    "category": "white-report",
+    "text_slots": {
+      "2": "페이퍼로지 채널구독과 좋아요제발 부탁드려요"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-247",
+    "original_page": 247,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 13,
+    "category": "white-report",
+    "text_slots": {
+      "10": "상어는 연골어류에 속하는 어류이다. 교어, 사어로도 부른다. 전세계의 열대에서 한대까지의 해양에 널리 분포하는데, 대부분은 열대에서 온대에 걸친 따뜻한 바다에 산다. 생활의 범위는 한정되어 있지 않고 담수역에도 서식하는 것이 있다",
+      "5": "SHARK",
+      "13": "전세계 분포",
+      "14": "연골 어류"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-249",
+    "original_page": 249,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 14,
+    "category": "white-report",
+    "text_slots": {
+      "5": "RHINO",
+      "3": "아프리카 등지",
+      "4": "포유류",
+      "6": "코뿔소 또는 무소는 말목에 속하는 포유류다. 코끼리 다음으로큰 대형 육상동물로, 4속 5종이 있으며 두 종은 아프리카, 세 종은아시아 남부 또는일부 네팔의 밀림 지대에서 서식한다."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-250",
+    "original_page": 250,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 15,
+    "category": "white-report",
+    "text_slots": {
+      "7": "THINK",
+      "8": "WRITE",
+      "10": "DESIGN",
+      "20": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias",
+      "31": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias",
+      "36": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias",
+      "4": "THINK",
+      "5": "WRITE",
+      "6": "DESIGN"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-321",
+    "original_page": 321,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 16,
+    "category": "white-report",
+    "text_slots": {
+      "3": "01. 기획서 문장의 구조",
+      "9": "가로축 메모 활용 스킬",
+      "12": "문장구조 수집",
+      "13": "321",
+      "15": "PAPERLOGY",
+      "22": "화살표 + 용도를 붙였을 때 떠오르는 것은 과감하게 적으세요. 반면 화살표 + 용도를 써올렸을 때 떠오르지 않는 것은 과감하게 버리세요. 좋은 문장구조는 늘 발견됩니다. 지금 문장을 흘려보낸다 해도 여러분이 손해 보는 것은 없습니다.",
+      "2": "기획은 누가 더많은 문장 구조를가지고 있느냐의싸움입니다.",
+      "5": "문장구조 수집은 많이 하는 것이 아닌,필요한 것만 하는 것이 중요합니다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-424",
+    "original_page": 424,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 17,
+    "category": "white-report",
+    "text_slots": {
+      "15": "책에 나온 것처럼 평소의 시간을 활용해 인사이트를 키우고 작은 스킬과 도구들로 진짜 기획을 만드는 연습을 해 보세요.분명 당신을  일 잘하는 직장인으로, 성공한 사장으로 만들어 줄 것입니다.",
+      "22": "기획력은 곧",
+      "11": "생존능력이다."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-427",
+    "original_page": 427,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 18,
+    "category": "white-report",
+    "text_slots": {
+      "8": "R&D",
+      "10": "핵심 보유 기술 – 입자미세화기술",
+      "11": "427",
+      "14": "STAR GROUP IND",
+      "2": "성림첨단산업의입자미세화핵심기술 FGM.",
+      "9": "FGM - Microstructure change ofFine Grained Magnet",
+      "49": "Strip casting",
+      "50": "HD",
+      "51": "Jet Mill",
+      "52": "Magnetic Press",
+      "53": "Sintering",
+      "55": "• 중희토류 Free 자석 생산을 위한 설계     • 미세분말 제조를 위한 고속jet milling 기술• 2축 마그네틱 프레스, 펄스장 마그네틱 프레스와 같은 새로운 프레스기술• 고유 윤활제를 적용한 자기 프레스 기술 개발     • 저산소 적용 자석제로를 위한 분말 제어 기술",
+      "15": "SC의 미세구조, 균질한 분말 크기, 입자의 완벽한 방향성, 저산소 공정",
+      "57": "핵심기술 – FGM (Microstructure change of Fine Grained Magnet)"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-494",
+    "original_page": 494,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 19,
+    "category": "white-report",
+    "text_slots": {
+      "47": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias",
+      "52": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias",
+      "57": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias",
+      "59": "01",
+      "60": "02",
+      "61": "03"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-502",
+    "original_page": 502,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 20,
+    "category": "white-report",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-511",
+    "original_page": 511,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 21,
+    "category": "white-report",
+    "text_slots": {
+      "11": "어느쪽을 들어도안정감 유지",
+      "12": "플래그십 스토어 오픈"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-512",
+    "original_page": 512,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 22,
+    "category": "white-report",
+    "text_slots": {
+      "6": "적용 예시",
+      "7": "원칙44_아름다움의 기본 '심메트리'의 원칙",
+      "14": "특허받은 신소재 인조가죽 사용으로날카로운 물체에도 찢어지지 않아요"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-549",
+    "original_page": 549,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 23,
+    "category": "white-report",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-552",
+    "original_page": 552,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 24,
+    "category": "white-report",
+    "text_slots": {
+      "10": "스크롤을 하단으로 내리면 장표가 이동",
+      "14": "마우스 좌클릭하면 장표가 이동",
+      "8": "마우스도 안가지고 왔으면, 청중 것을 빌리면 됩니다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-598",
+    "original_page": 598,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 25,
+    "category": "white-report",
+    "text_slots": {
+      "61": "기획하는사람김도균입니다",
+      "64": "HELLOEVERYONE!",
+      "79": "Career2022 WISELION, CEO2012 이노션 월드와이드 기획2010 레오버넷 코리아 기획Awards2011 CLIO 국제광고상 Silver2010 더알엑스 국제광고상 등"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-599",
+    "original_page": 599,
+    "pack": "assets/white-report.pptx",
+    "pack_page": 26,
+    "category": "white-report",
+    "text_slots": {
+      "4": "기획하는 사람김도균 입니다",
+      "18": "LG전자, 이은성 님이 말하는 페이퍼로지",
+      "23": "구글코리아 PM, 최다은 님이 말하는 페이퍼로지",
+      "27": "한양대학교 교수, 최태성 님이 말하는 페이퍼로지"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-008",
+    "original_page": 8,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 1,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "9": "그 전에, 사이즈 확정부터",
+      "11": "작업이 끝난 뒤, 사이즈 변경은PPT를 두 번 작업하는 것과 같습니다",
+      "13": "16:9",
+      "14": "4:3"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-014",
+    "original_page": 14,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 2,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "6": "프로젝트의 대제목을 여기에 넣겠습니다",
+      "14": "매니저, WorldWide 펀드별 모니터링 항목 및 지표 설정",
+      "10": "여기에는 대제목을강조해서 넣어주시면되며 최대 4줄을추천합니다.",
+      "11": "현재 위치 및 목차를 여기에 넣겠습니다",
+      "16": "내가 먼저 주문했는데 옆자리의 내말이메뉴가 먼저 나왔다. 이해는 된다.간단한 메뉴였으니 이렇게 최대 3줄",
+      "17": "단기자금 운용팀",
+      "18": "중기자금 운용팀",
+      "19": "장기자금 운용팀",
+      "20": "일반자금 운용팀",
+      "21": "특수자금 운용팀",
+      "32": "스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. 스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. 스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. 스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. 스토리텔링 전개 방식의 장점입니다. 이 접근법은 읽는 이의 몰입을 유도합니다. 경험이 직업적으로 표현되어 있으니까요. ‘스토리텔링’ 전개 방식의 장점입니다. ",
+      "44": "도전적환경",
+      "5": "단기자금 운용팀",
+      "8": "PAPERLOGY",
+      "9": "14"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-015",
+    "original_page": 15,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 3,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "14": "‘가설을 세우는 힘’과 ‘가설을 부수는 힘’을 모두 가지게 되면 본질을 찾을 수 있다",
+      "10": "문제의 본질을발견하는다섯가지 방법.",
+      "16": "문제의 본질을 제대로 파악하는 다섯가지 방법이 존재합니다",
+      "17": "제한없는 가설설정",
+      "18": "의심",
+      "19": "관습과 파괴",
+      "20": "안티오피니언",
+      "21": "트레이드온",
+      "32": "가장 먼저 ‘제한없는 가설’을 세우고, 그 가설을 ‘의심’을 하고, ‘업계의 관습을 파괴’하고, ‘안티오피니언을 청취’하고, ‘트레이드온을 적용’해 보다보면 처음 세웠던 가설이 굉장히 많이 뒤틀릴 것입니다. 하지만 좋은 방향이죠. 첫 가설 중 대부분을 버리게 되는 일도 있고, 심지어 처음에는 생각치도 못했던 가설들이, 이 과정을 거치다보면 다시 생겨나곤 합니다. 하지만 그것은 좋은 징조입니다. 처음 생각한게 다 맞아 떨어지는게 오히려 이상한 것이죠. 그러니까 이 단계에서는 뭐가 자꾸 변하고 뒤집어진다 하더라도 크게 스트레스를 받지 마세요. 오히려 이 과정을 즐기셔야 해요. 왜냐하면 이 과정 자체가 여러분의 가설이 본질에 가까워지는 작업이거든요. ‘가설을 세우는 힘’과 이 과정을 통해 ‘가설을 부수는 힘’ 이 두 가지 힘을 가지게 되면 여러분은 금새 본질을 찾을 수 있게 되실 거고요. 이를 통해 나온 여러분의 솔루션은 다이아몬드가 될 거예요.",
+      "3": "4. 문제의 본질을 파악하는 5가지 방법",
+      "4": "A. 기획서의 법칙",
+      "13": "15",
+      "15": "PAPERLOGY",
+      "27": "어떤 제한도 두지 않고모든 가설을 수집",
+      "28": "클라이언트의 가설을특히 의심하라",
+      "29": "업계의 상식을 파괴하면문제가 해결된다",
+      "6": "안티들의 오피니언을꼼꼼히 청취한다",
+      "7": "트레이드 오프 관념을부숴버린다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-016",
+    "original_page": 16,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 4,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "14": "도출된 10가지 가설을 5가지 이슈트리로 재분류",
+      "10": "이슈트리 통한서점 당면 문제가설 재분류.",
+      "16": "지금보다 더 고객을 위한, 고객이 만족하는 서점을 만들고 싶습니다",
+      "4": "A. 기획서의 법칙",
+      "13": "16",
+      "15": "PAPERLOGY",
+      "21": "접근성 이슈",
+      "35": "주차공간 부족",
+      "17": "온라인 이슈",
+      "9": "느린 배송",
+      "11": "온라인보다 적은 혜택",
+      "19": "공간구성의 이슈",
+      "30": "책이 과도하게 많음",
+      "31": "고객 독서공간 부족",
+      "20": "정체성 이슈",
+      "33": "가전제품 판매",
+      "34": "비도서 이벤트",
+      "18": "큐레이션 이슈",
+      "24": "신간과 베셀만 진열",
+      "25": "신인작가 소개 없음",
+      "26": "의도적 매출위주 배치",
+      "2": "5-3. 목표재분석"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-017",
+    "original_page": 17,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 5,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "14": "Politics, Economics, Sociocultural, Technology 분석",
+      "10": "나에게 꼭 맞는분석방법을 정하고분석해 보자.",
+      "16": "기획의 여섯단계 중 네 번째,분석 방법 툴에 대해 알아봅시다",
+      "4": "A. 기획서의 법칙",
+      "13": "17",
+      "15": "PAPERLOGY",
+      "17": "6-1. PEST 분석"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-018",
+    "original_page": 18,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 6,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "14": "회사 포트폴리오를 정리할 때, 쓰면 매우 유용한 툴: BCG 매트릭스",
+      "10": "나에게 꼭 맞는분석방법을 정하고분석해 보자.",
+      "16": "기획의 여섯단계 중 네 번째,분석 방법 툴에 대해 알아봅시다",
+      "4": "A. 기획서의 법칙",
+      "13": "18",
+      "15": "PAPERLOGY",
+      "17": "6-6. BCG 매트릭스",
+      "21": "유망주Question Mark",
+      "22": "스타Star",
+      "24": "사양사업Dog",
+      "25": "캐시카우Cash Cow",
+      "3": "자사 사업 중 시장점유율도 낮고시장성장률도 느린 사업",
+      "5": "A. Dog",
+      "6": "자사 사업 중 시장점유율은 낮지만시장성장률은 빠른 사업",
+      "7": "B. Question Mark",
+      "8": "자사 사업 중 시장점유율도 높고시장성장률도 빠른 사업",
+      "18": "C. Star",
+      "20": "자사 사업 중 시장성장률은 느리지만시장점유율이 높은 사업",
+      "23": "D. Cash Cow",
+      "30": "시장 점유율",
+      "31": "시장성장률",
+      "35": "빠름",
+      "36": "느림",
+      "37": "낮음",
+      "38": "높음"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-019",
+    "original_page": 19,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 7,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "14": "본격적인 기획 전, 경쟁사와 시장을 깊이있게 조사",
+      "10": "기획의 선명도를높이기 위한 첫번째기술 ‘깊이’.",
+      "13": "19",
+      "15": "PAPERLOGY",
+      "5": "C. 선명도",
+      "6": "문제의 발견부터 조사, 해결까지매우 세세하고 구체적으로 파고드는 것",
+      "2": "2. 선명도의 두 번째 조건, 넓이"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-020",
+    "original_page": 20,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 8,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "14": "기획의 선명도를 높이기 위한 ‘넓이’ 파악 기술",
+      "10": "기획의 선명도를높이기 위한두 번째, ‘넓이’.",
+      "16": "넓이는 리스크, 매출, 조사까지3가지 측면으로 파악하는 것이 좋습니다",
+      "32": "선명도의 세 가지 조건 중 두 번째는 ‘넓이’입니다. 넓이는 깊이와 긴밀하게 붙어있기는 하지만, 엄밀히는 ‘깊이’의 다음단계입니다. 넓이는 보통 리스크 측면, 매출 측면, 조사 측면으로 파악하는 것이 일반적이며 필수적입니다. 발생할 수 있는 리스크를 넓게 판단해 그것들을 사전에 대비해 놓는 것. 수익화할 수 있는 요소들을 넓게 파악하는 것. 기획과 관련해 크고 작은 영향을 미칠 수 있는 모든 것들을 넓은 커버리지에서 파악하는 단계입니다.",
+      "13": "20",
+      "15": "PAPERLOGY",
+      "3": "2. 선명도의 두 번째 조건, 넓이",
+      "6": "C. 선명도",
+      "22": "넓이파악",
+      "9": "사이트내부문제",
+      "8": "우리의 기획은세상에 없던 플랫폼이었기에PEST의 P파악이 필요",
+      "23": "서로 의견이 다른 변호사 A, 변호와 B를 각각 만난 뒤,합의 하에 변호사 A와 B의 토론을 경청",
+      "7": "신고",
+      "24": "법적제제",
+      "27": "고객문의",
+      "28": "고객대응(CS)",
+      "29": "3C에서 D로 진입",
+      "30": "대기업 자본력"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-021",
+    "original_page": 21,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 9,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "14": "기획의 선명도를 높이기 위한 마지막 단계, ‘구조화’",
+      "10": "기획의 선명도를높이기 위한세 번째, ‘구조’.",
+      "16": "깊이와 넓이 이후 그것을 ‘구조’화하는 것으로 기획의 선명도는 최상이 된다",
+      "13": "21",
+      "15": "PAPERLOGY",
+      "3": "3. 선명도의 세 번째 조건, 구조",
+      "6": "C. 선명도",
+      "20": "사이트 정책",
+      "22": "위기대응",
+      "23": "사이트 기술",
+      "25": "회사정책",
+      "26": "타사협력",
+      "28": "브랜딩",
+      "29": "강의콘텐츠",
+      "30": "마케팅",
+      "31": "강사",
+      "33": "고객관리 (CS)",
+      "4": "-",
+      "7": "메인타겟 : 연인, 부부 등",
+      "8": "온라인 게시글 5천개를 통해 확인한 50여개의 강의 콘텐츠 리스트 확보",
+      "9": "한국·일본의 산부인과 전문의, 비뇨기과 전문의를 강사로 활용",
+      "11": "고객이 직접 강의를 신청하는 제도 운영",
+      "17": "다중아이디 접속불가공공상영 불가강의 금액, 개당 4,000원-7,000원 사이로 책정7일시청·평생소장 구분강의를 요청해 준 고객에게 소정의 포인트 지급",
+      "18": "-",
+      "19": "경쟁사 진입 확률 저조",
+      "21": "투자유치 하지않음마케팅비용 집행하지 않음강의영상 100% 자체제작구독제 도입하지 않음",
+      "24": "커머스 진행시 A, B사 협의웹사이트 제작 및 웹사이트리스크 대응은 S사와 진행동영상 스트리밍 서비스는C사의 서비스 사용동영상 촬영, 편집 자체제작",
+      "2": "깊이, 넓이 기획에서 뽑은 키워드 : 경쟁사 특징 (P사, C사, T사), 각 사의 재무제표, 투자, 마케팅비, 마케팅, 브랜드, 기성 성교육 회사, 사이트 제작, 동영상, 연인, 부부, 숙박업, 피임, 성교육, 비뇨기과 선생님, 산부인과 선생님, 언더웨어, 5천개의 온라인 성 관련 고민 게시글, 강의 금액, 성인 인증, 홍보성 푸시메일 및 문자, 서버, 결제 문제, 법적 문제, 고객 대응 CS, 독점 여부 (3C), 영상등급심의위원회"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-023",
+    "original_page": 23,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 10,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "6": "프로젝트의 대제목을 여기에 넣겠습니다",
+      "10": "여기에는 대제목을강조해서 넣어주시면되며 최대 4줄을추천합니다.",
+      "11": "현재 위치 및 목차를 여기에 넣겠습니다",
+      "16": "내가 먼저 주문했는데 옆자리의 내말이메뉴가 먼저 나왔다. 이해는 된다.간단한 메뉴였으니 이렇게 최대 3줄",
+      "15": "* 2023년 12월 31일까지     ** 21-22년 성장률 50%와 동일",
+      "26": "100K",
+      "27": "150K",
+      "28": "225K",
+      "30": "21",
+      "31": "22",
+      "34": "23",
+      "50": "여기에는 대제목을 강조해서 넣어주시면 되며 최대 4줄을 추천합니다.",
+      "51": "내가 먼저 주문했는데 옆자리의 내말이 메뉴가 먼저 나왔다. 이해는 된다.간단한 메뉴였으니 이렇게 최대 3줄입니다!",
+      "8": "PAPERLOGY",
+      "9": "23",
+      "2": "외부 템플릿을 쓰는 것은 최악의 수반드시 주제와 맞는 본인의 템플릿을 본인이 만들어야 합니다 "
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-045",
+    "original_page": 45,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 11,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "10": "인간은 자신이 없을 때추상을 말한다",
+      "11": "감성과 추상으로 가득 차 있는 주장은 반박에 취약숫자에 빈틈이 생기면 설득은 부실해진다숫자를 가볍게 보는 기획은 흔들릴 수 밖에 없다",
+      "17": "Innovation이라는 말은 이미수많은 기업에서 쓰는 닳고 닳은 말.혁신이 혁신처럼 느껴지지 않음.",
+      "24": "+",
+      "25": "+",
+      "26": "+",
+      "27": "+"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-051",
+    "original_page": 51,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 12,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "25": "A",
+      "26": "C",
+      "19": "형용사",
+      "3": "For Making Numbers형용사 제거"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-059",
+    "original_page": 59,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 13,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "8": "숫자는 PPT의 언어",
+      "42": "숫자형",
+      "9": "4.6",
+      "40": "총 3,893명 대상 설문맛 만족도 4.6점가격 만족도 4.3점",
+      "17": "★ ★ ★ ★ ★"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-060",
+    "original_page": 60,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 14,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "8": "인간의 평생 수면시간",
+      "42": "인간은 한 평생을 살면서평균적으로 약 26년을 수면하는데시간을 보낸다고 합니다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-061",
+    "original_page": 61,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 15,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "8": "26",
+      "16": "년"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-063",
+    "original_page": 63,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 16,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "43": "PAPERLOGY",
+      "44": "63",
+      "22": "5. 설문의 기술",
+      "2": "문제의 발견 단계에서의 두 가지 절차",
+      "15": "1단계",
+      "16": "2단계",
+      "17": "가설 세우기",
+      "18": "가설 검증하기"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-071",
+    "original_page": 71,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 17,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "13": "② 유튜브에 넘쳐나는잘못된 피피티 정보들",
+      "16": "① 정확한 피드백을줄 수 있는 선배의 부재",
+      "17": "③ 피피티 원포인트레슨 콘텐츠의 부재",
+      "53": "파워포인트 스킬이 향상되지 않는 이유",
+      "54": "파워포인트는 직장인이 업무 중 가장 많이 만지는프로그램임에도 불구하고, 90% 이상이‘작성에 어려움을 느낀다’고 응답했습니다."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-072",
+    "original_page": 72,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 18,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "8": "파워포인트 스킬이 향상되지 않는 이유",
+      "14": "파워포인트는 직장인이 업무 중 가장 많이 만지는프로그램임에도 불구하고, 90% 이상이‘작성에 어려움을 느낀다’고 응답했습니다.",
+      "13": "NINETY",
+      "16": "FIFTY",
+      "17": "ZERO"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-076",
+    "original_page": 76,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 19,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "2": "R&D",
+      "3": "성림첨단산업의 Magnet 소재 기술",
+      "4": "76",
+      "5": "STAR GROUP IND",
+      "16": "HEV/EV 구동 Motor용 Magnet 제조기술 (고 보자력, 고온 특성)MDPS 구동용 Magnet 가공기술자기배향도 제어(0.5˚ 이내)입자 미세화 기술",
+      "15": "Green Car 용 Magnet",
+      "27": "분할 Core 최적 고효율 설계Safety 최적화 드라이버 설계Full Load 최적 기구설계CAN 통신 기반 Controller 설계양산 System 자동화 조립",
+      "29": "Enterprise VCMA 개발초슬림 HDD용 VCMA 개발Resonance 제어기술Wire Sawing 공법 가공기술초정밀 stamping 기술",
+      "30": "HDD VCMA",
+      "31": "허브모터"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-080",
+    "original_page": 80,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 20,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "13": "파워포인트 스킬이 향상되지 않는 이유",
+      "16": "유튜브에 넘쳐나는 잘못된 피피티 정보들",
+      "17": "정확한 피드백을 줄 수 있는 선배의 부재",
+      "18": "피피티 원포인트 레슨 콘텐츠의 부재",
+      "21": "NINETY",
+      "22": "FIFTY",
+      "23": "ZERO"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-083",
+    "original_page": 83,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 21,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "24": "테니스 인구         증가에 따른 용품 매출 추이"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-084",
+    "original_page": 84,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 22,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "19": "이 강의는 기획을 하는데 있어 ‘꼭 필요한 도구’만을여러분께 쥐어드리기 위해 만들어 졌습니다.",
+      "20": "결론",
+      "25": "P",
+      "26": "R",
+      "27": "E",
+      "28": "P",
+      "32": "이유",
+      "33": "예시",
+      "34": "결론",
+      "36": "기존 강의들은 실무 현장을 반영하지 않은 ‘강의를 위한 강의’가 많았습니다.하여 여러분들이 정작 중요한 것을 놓치고, 필요하지 않은 것까지 배워서시간과 에너지를 낭비할 필요가 없다고 생각했습니다.",
+      "37": "예를 들면, 모핑 기술이 피피티의 꽃이라고 하지만 실무의 프로들은아무도 그 기술을 쓰지 않습니다. 온갖 도형 만드는 법이나애니메이션을 적용하는 방법들도 마찬가지입니다.",
+      "38": "그런 이유로 기획에 꼭 필요한 원칙만을 알려드리는진짜 강의를 준비했습니다."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-085",
+    "original_page": 85,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 23,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "23": "한양대학교 언론정보대학광고전공 석사 졸업",
+      "24": "2012.02",
+      "25": "2009.02",
+      "26": "2002.02",
+      "28": "1999.02",
+      "29": "1996.02",
+      "30": "한양대학교 언론정보대학광고전공 학사 졸업",
+      "31": "경기도 안양시 소재평촌고등학교 졸업",
+      "32": "경기도 안양시 소재귀인중학교 졸업",
+      "33": "관양초등학교 졸업",
+      "34": "우리는 오늘도위대한 역사를",
+      "37": "만들고 있습니다."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-098",
+    "original_page": 98,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 24,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "24": "정보",
+      "17": "파이브가이즈 프랜차이즈 현 상황 개요미국에서 성공할 수 있었던 비결본사의 재무상황 및 수익성다른 나라 진출 사례 esp. Asia파이브가이즈의 IT시스템과 기업문화"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-099",
+    "original_page": 99,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 25,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "29": "+ 의견",
+      "30": "+ 미국에서 대성공! 하지만 한국에서도 통할 것인지+ 본사에 얼마의 로열티를 제안하는 것이 적당한지+ 런칭 이후 얼마만에 흑자로 전환될지 Forecast",
+      "24": "정보",
+      "17": "파이브가이즈 프랜차이즈 현 상황 개요미국에서 성공할 수 있었던 비결본사의 재무상황 및 수익성다른 나라 진출 사례 esp. Asia파이브가이즈의 IT시스템과 기업문화"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-107",
+    "original_page": 107,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 26,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "43": "설득형 기획서의 기본구조",
+      "23": "문제를발견한다",
+      "24": "SOWHAT",
+      "25": "문제를 해결한다"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-140",
+    "original_page": 140,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 27,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "43": "설득형 기획서의 기본구조",
+      "44": "주로 외부 PT에서 진행하는 방식으로다음의 네 단계를 거침",
+      "22": "결론 및기타내용",
+      "23": "문제를발견한다",
+      "24": "문제의원인파악",
+      "25": "문제를 해결한다"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-148",
+    "original_page": 148,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 28,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "13": "① FORECAST - Number of Customers",
+      "14": "20만",
+      "15": "2021 도입단계",
+      "17": "100만",
+      "18": "2022 성장단계",
+      "20": "145만",
+      "21": "2023 안정화단계"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-170",
+    "original_page": 170,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 29,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "10": "사방에 못을 박아안정감 200% 향상!",
+      "11": "못의 종류는 다양합니다. 블라인드 텍스트부터플러스형, 괘선형, 원형 등 다양한 못을 활용하여여러분의 장표에 안정감을 줍시다.",
+      "16": "괘선",
+      "17": "플러스형",
+      "18": "원형",
+      "19": "텍스트형",
+      "20": "┏ ",
+      "21": "┓",
+      "22": "┗",
+      "23": "┛",
+      "24": "+",
+      "25": "+",
+      "26": "+",
+      "27": "+",
+      "28": "○",
+      "29": "○",
+      "30": "○",
+      "31": "○",
+      "32": "A",
+      "33": "B",
+      "34": "C",
+      "35": "D"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-203",
+    "original_page": 203,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 30,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "2": "PAPERLOGY",
+      "5": "203",
+      "4": "2024년 최상위 의대 합격의 원리",
+      "6": "올케어 프로그램 소개",
+      "7": "올케어에서만제공하는 검증된 3가지과학적 프로그램.",
+      "11": "쉐도우 복싱",
+      "12": "현장 클리닉",
+      "13": "온라인 클리닉",
+      "14": "오직 올케어 프로그램에서만 가능한 3가지 특혜",
+      "18": "최상위 의대 합격!더 프라임과 함께라면 할 수 있습니다",
+      "19": "강사와 동일한 관점에서 풀 수 있도록 철저한 지도",
+      "20": "1:1 과외식 질문+ 수업 전 질의응답 1시간",
+      "21": "24시간 운영되는문자 / 채팅 / 게시판 질문공간"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-228",
+    "original_page": 228,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 31,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "6": "국내외 사업장 및 생산공장",
+      "7": "228",
+      "16": "STAR GROUP IND",
+      "40": "대한민국 본사",
+      "1024": "위치: 대구광역시 달서구 달서대로85길 49  규모: 대지 1002평 / 건물 1,669평경영지원 및 연구소",
+      "1048": "영천 1공장",
+      "1049": "위치: 경북 영천시 채신1공단길 74-30규모: 대지 5,343평 / 건물 1,468평운영 공정: 표면처리 (Epoxy Coating, Ni-Plating, 인산염)생산 능력: HEV사양 500만pcs/년위치: 경북 영천시 채신1공단길 74-30기타: 2공장(현풍) 가공품 표면처리 전용 공장 ",
+      "1054": "현풍 2공장",
+      "1055": "위치: 대구 달성군 유가읍 테크노남로 1길 6 규모:  대지 3,450평 / 건물 1,628평운영 공정: 소결 / 가공 / 확산 / 검사 (분석)생산 능력: Nd 소결자석 1,000톤/년 (23년)기타: 23/2Q 양산 개시 예정",
+      "1066": "중국 상추시 3공장",
+      "1067": "위치: 중국 하남성 상추시규모:  대지 33,600평 / 건물 32,424평운영 공정: 가공 / 확산 / 표면처리 / 검사 (분석)생산 능력: Nd 소결자석 2,000톤/년 (23년)기타: 소결 원자재 외주구매 운영",
+      "1069": "베트남 꽝남성 4공장",
+      "1070": "위치: 베트남 꽝남성 북출라이 산단규모:  대지 51,000평 / 건물 25,000평운영 공정: 소결 / 가공 / 확산 / 표면처리 / 검사 (분석)생산 능력: Nd자석 2,000톤/년 (23년)  5,000톤/년(25년)기타: 건설 진행 중 (23년 완공) / 24년 2Q 양산 예정",
+      "1072": "Company"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-253",
+    "original_page": 253,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 32,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "9": "SOFTCAMP SHILDGATE",
+      "10": "Hybrid Work",
+      "12": "ZERO TRUST",
+      "13": "ZTCA",
+      "15": "RBI",
+      "16": "OVERALL",
+      "36": "원격근무란외부      회사 시스템으로접속을 한다는 것",
+      "44": "그런데 이렇게 외부에서 사내 업무 시스템에 접속을 하게 될 경우, 보안은 잘 지켜지고 있을까요? "
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-254",
+    "original_page": 254,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 33,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "9": "SOFTCAMP SHILDGATE",
+      "10": "Hybrid Work",
+      "12": "ZERO TRUST",
+      "13": "ZTCA",
+      "15": "RBI",
+      "16": "OVERALL",
+      "4": "SHIELDGATEWITH ZERO TRUST",
+      "11": "표현 그대로 아무도 신뢰하지 않으며 모든사용자를 집요하게 검증하는 보안 개념",
+      "21": "끊임없이 접속 형태를 분석하여사용자를 의심하고 검증",
+      "22": "아무것도 신뢰할 수 없다는 가정하에 지속적인 검증 단계를 거쳐 접속 허용 후에도 보안 관리"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-255",
+    "original_page": 255,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 34,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "29": "SOFTCAMP SHILDGATE",
+      "30": "Hybrid Work",
+      "31": "ZERO TRUST",
+      "32": "ZTCA",
+      "33": "RBI",
+      "34": "OVERALL",
+      "43": "스크린 워터 마크, 캡쳐 방지, 파일 업 & 다운로드 제어 같은 사용 정책을 커스터마이즈하여적용하는 것이 가능",
+      "44": "특히 파일 업로드 시에는무해화 정책을 적용이로 인해 외부 위협으로부터사내 정보 자산 보호 가능",
+      "47": "WITH SHILDGATE",
+      "49": "WITH SHILDGATE"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-263",
+    "original_page": 263,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 35,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "42": "기업의 특정컬러가 없다면이미지를 연상하자",
+      "43": "회사의 상품이나 서비스가 소비자에게주는 이미지를 연상하여 컬러를 선택",
+      "32": "IT, 테크놀로지 기업",
+      "33": "식품 기업",
+      "34": "건강, 친환경 관련 기업",
+      "35": "유통, 도소매 기업"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-270",
+    "original_page": 270,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 36,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "57": "기획서는 내로우 다운",
+      "51": "매니페스토 : 상대의 머리 속에 챕터 전반의 흐름을 인식",
+      "28": "상세 A",
+      "29": "상세 B",
+      "30": "상세 C",
+      "18": "Example",
+      "20": "Example",
+      "23": "Example"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-272",
+    "original_page": 272,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 37,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "12": "테니스 용품매출 전년대비46% 상승",
+      "13": "테니스용품 매출, 전년대비 46% 상승테니스공 매출, 전년대비 287% 상승테니스 가방 매출, 전년대비 65% 상승",
+      "14": "INSTA",
+      "15": "COVID",
+      "19": "160",
+      "20": "bpm"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-293",
+    "original_page": 293,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 38,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "17": "강력한 첫인상을 심어줘야 합니다",
+      "2": "첫인상을 줄 수 있는 두 번째 기회는 없다",
+      "6": "새롭게 출시하는 제품이나 서비스PT를 할 때"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-307",
+    "original_page": 307,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 39,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "14": "관습",
+      "16": "토익공부를 할 수 있는시간에만 한다는 관습을",
+      "3": "누군가는 이런식으로PT에 최적화된 말과 글을 씁니다"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-310",
+    "original_page": 310,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 40,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "8": "크리에이티브 방향",
+      "42": "신제품 커피A의 마케팅은 비록 49:51일지라도이성보다는 소비자 감성에 집중해야 합니다.",
+      "5": "누군가는 이런식으로PT에 최적화된 말과 글을 씁니다"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-311",
+    "original_page": 311,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 41,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "8": "기획서 문장 구조",
+      "42": "49:51일지라도 ___에집중해야 합니다.",
+      "5": "49:51이라는문장구조를 가지고 있기 때문이죠"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-320",
+    "original_page": 320,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 42,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "26": "내 언어의 한계는",
+      "28": "어휘력 상승에 따른 설득력 향상",
+      "35": "100W",
+      "37": "150W",
+      "38": "225W",
+      "11": "X1",
+      "18": "X2",
+      "22": "X3",
+      "10": "내 세계의 한계",
+      "32": "어휘력을 높이면 커뮤니케이션 스킬 및 이해도가 함께 상승됩니다",
+      "4": "개별 장표의제목들이 된다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-334",
+    "original_page": 334,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 43,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "3": "좋은 기획이 가진 힘은사람의 감정을 건드렸다는 것",
+      "25": "기쁨",
+      "26": "슬픔",
+      "4": "감동"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-398",
+    "original_page": 398,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 44,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "4": "Company",
+      "6": "주요 연혁",
+      "10": "설립기  1994~2002",
+      "18": "성림첨단산업이걸어온 길.",
+      "13": "성림첨단산업㈜ 법인 설립삼성전기 협력업체 등록우량기술기업지정(기술신용보증기금)삼성항공 SQA-2000A 품질인증획득중국 상구 현지법인 설립(CQS)ISO 9002 인증마크 획득우수중소기업대상(대구광역시)선도중소기업선정(대구광역시)전국품질분임조경진대회 대통령상 수상대구성서첨단산업단지 신사옥 준동삼성전자 SQCI 인증",
+      "14": "949698 99 000103"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-401",
+    "original_page": 401,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 45,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "12": "401",
+      "13": "STAR GROUP IND",
+      "11": "성림첨단산업의 생산 공정 - ① 소결체 제조공정",
+      "15": "Company",
+      "20": "수소파쇄HD Milling",
+      "21": "S.C 공정Strip Casting",
+      "22": "파쇄Jet Mill",
+      "23": "소결Sintering & Aging",
+      "25": "프레스Anisotropic press",
+      "35": "STEP.01",
+      "36": "소결체 제조공정."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-403",
+    "original_page": 403,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 46,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "12": "403",
+      "13": "STAR GROUP IND",
+      "11": "성림첨단산업의 생산 공정 - ③ 표면처리공정",
+      "15": "Company",
+      "35": "STEP.03",
+      "36": "표면처리공정.",
+      "27": "샌딩Sanding",
+      "28": "탈지Degreasing",
+      "29": "아연말 코팅Zinc Plating Coating",
+      "37": "최종검사Outgoing Inspection",
+      "38": "건조Dry"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-420",
+    "original_page": 420,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 47,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "12": "테니스 용품 매출전년대비 대폭 상승",
+      "13": "+ 테니스 용품, 46% UP+ 테니스 공, 287% UP+ 테니스  가방, 65% UP",
+      "21": "46 %"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-439",
+    "original_page": 439,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 48,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "21": "기대되시죠?",
+      "22": "시작합니다!",
+      "23": "걱정입니다.",
+      "24": "감사합니다!"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-447",
+    "original_page": 447,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 49,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "17": "섞어서",
+      "19": "흔들면"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-462",
+    "original_page": 462,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 50,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "10": "타이틀을 크게 하면역동적이고 활동적인느낌을 줍니다.",
+      "11": "타이틀 38pt-42pt 크기, 30글자 이하면큰 타이틀의 조건을 충족한다고 볼 수 있어요.하지만 이 기준을 넘으면, 여백을 해쳐부담감을 줄 수 있으니 주의하세요!"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-479",
+    "original_page": 479,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 51,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "530": "컬러를 변경하고 싶은 지역을 선택, 자유롭게 수정"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-497",
+    "original_page": 497,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 52,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "22": "디자인",
+      "23": "기획력",
+      "24": "발표",
+      "25": "페이퍼로지 유튜브 콘텐츠",
+      "26": "YouTube Contents by Paperlogy"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-533",
+    "original_page": 533,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 53,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "18": "회사 개요",
+      "20": "533",
+      "19": "STAR GROUP IND",
+      "17": "Company"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-534",
+    "original_page": 534,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 54,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "7": "534",
+      "16": "STAR GROUP IND",
+      "27": "주주구성",
+      "69": "Company",
+      "26": "인력현황",
+      "19": "총인원483명",
+      "40": "9,498,386주",
+      "70": "회사 개요"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-539",
+    "original_page": 539,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 55,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "2": "A",
+      "3": "C",
+      "4": "B"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-540",
+    "original_page": 540,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 56,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "2": "A",
+      "3": "C",
+      "4": "B"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-555",
+    "original_page": 555,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 57,
+    "category": "dark-report-diagram",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-556",
+    "original_page": 556,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 58,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "4": "Lorem ipsum dolor sit amet",
+      "5": "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-576",
+    "original_page": 576,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 59,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "15": "대원칙_루틴과 패턴",
+      "17": "운동에서 기본이 가장 중요하듯인생에서는 밸런스가 가장 중요",
+      "11": "수면시간을 제외한업무와 비업무* 비율을5:5**로 맞춘다",
+      "18": "* 비업무  영역 : 식사, 인풋, 운동   ** 업무, 비업무는 각 8H"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-578",
+    "original_page": 578,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 60,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "15": "능력치 구분표",
+      "19": "유튜브",
+      "20": "일본어",
+      "21": "영어",
+      "22": "영업",
+      "23": "경영",
+      "24": "영상편집",
+      "25": "PPT",
+      "26": "글쓰기",
+      "27": "강의",
+      "28": "기획 제안서",
+      "29": "경리",
+      "30": "전화통화",
+      "31": "접대",
+      "34": "하고 싶은 일",
+      "35": "하기 싫은 일",
+      "33": "잘 하는 일",
+      "36": "못하는 일",
+      "39": "MCN",
+      "40": "엑셀",
+      "41": "피그마",
+      "42": "해외채널 개설",
+      "44": "미대 진학",
+      "45": "인문학책 출간",
+      "46": "한글",
+      "47": "모션5",
+      "48": "일러스트",
+      "49": "히토쯔바시",
+      "52": "커머스",
+      "53": "오프라인 사업",
+      "54": "포토샵",
+      "43": "투자",
+      "50": "헬스케어",
+      "51": "인테리어디자인",
+      "55": "광고업무",
+      "56": "카피라이팅"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-588",
+    "original_page": 588,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 61,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "15": "목표들이 서로 연결되어 있는지 확인해 보자",
+      "30": "유튜브",
+      "31": "출판",
+      "11": "초연결",
+      "32": "오프강의",
+      "33": "온라인강의",
+      "41": "다목적 정신으로 콘텐츠를 생산한다출판은 강의가 되고, 강의는 유튜브가 된다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-591",
+    "original_page": 591,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 62,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "15": "메인컬러 제안",
+      "21": "컨설턴트 및 기획자 업무",
+      "10": "PPT 및 프레젠테이션 업무"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-594",
+    "original_page": 594,
+    "pack": "assets/dark-report-diagram.pptx",
+    "pack_page": 63,
+    "category": "dark-report-diagram",
+    "text_slots": {
+      "15": "능력치 구분",
+      "27": "테니스",
+      "34": "하고 싶은 헬스케어",
+      "35": "하기 싫은 헬스케어",
+      "33": "잘 하는 헬스케어",
+      "36": "못하는헬스케어",
+      "54": "클라이밍",
+      "51": "헬스",
+      "55": "수영",
+      "57": "골프",
+      "58": "유도",
+      "59": "식단관리",
+      "61": "러닝",
+      "62": "마라톤",
+      "63": "크로스핏",
+      "64": "요가",
+      "65": "금연",
+      "67": "배드민턴",
+      "68": "스트레칭",
+      "69": "단백질섭취",
+      "70": "등산"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-006",
+    "original_page": 6,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 1,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "12": "18.4만 구독자 유튜브 채널 운영 (기획, PPT 분야 1위)300,000장 이상 기획서 제작3회 이상의 회사, 기획물 매각 경험 연 200회 이상 강연",
+      "2": "검증된 기획자"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-027",
+    "original_page": 27,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 2,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "4": "4. 문제의 본질을 파악하는 5가지 방법",
+      "5": "A. 기획서의 법칙",
+      "7": "PAPERLOGY",
+      "8": "27",
+      "10": "우리가 업계 1위인 이유는품질입니다. 재료비는 절대낮출 수 없어요",
+      "12": "TRADE ON",
+      "14": "영업이익률을 당장높이라 했으니저렴한 재료를 찾죠",
+      "15": "TRADE OFF"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-028",
+    "original_page": 28,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 3,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "5": "A. 기획서의 법칙",
+      "8": "3. 상위 1% 기획의 필수조건",
+      "4": "PAPERLOGY",
+      "7": "28",
+      "13": "WHYNOT YET",
+      "14": "-마케팅팀 김도균님-"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-030",
+    "original_page": 30,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 4,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "22": "문제의 발견",
+      "23": "문제의 해결",
+      "19": "지구본 제조사의 매출하락",
+      "27": "인테리어소품으로시장 확장",
+      "33": "A. 기획서의 법칙",
+      "34": "1. 평생 써먹는 기획서의 6가지 단계",
+      "35": "PAPERLOGY",
+      "40": "30"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-031",
+    "original_page": 31,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 5,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "15": "PAPERLOGY",
+      "16": "31",
+      "13": "A. 기획서의 법칙",
+      "14": "2. 문제를 발견한다",
+      "18": "문제를 발견",
+      "21": "문제를 해결",
+      "9": "문제의 발견은 기획의 50%",
+      "10": "문제의 해결도 기획의 50%"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-034",
+    "original_page": 34,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 6,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "2": "컨슈머 저니",
+      "10": "유리씨는 집으로 돌아가는 길에 강남역에서 지하철을 기다리다가 눈길이 가는 지하철 플랫폼 광고를 발견합니다. 그 광고에는 '온라인으로 손쉽게 빠르게! 학원을 왕복할 시간에 토익까지 끝낼 수 있어요!'라는 매력적인 메시지가 적혀있습니다. 이를 보고 유리씨는 무심코 자신이 다니는 학원과 이 광고의 서비스를 비교하게 되죠. 호기심이 더욱 커져 이 온라인 서비스의 웹사이트를 방문해보기로 결심합니다.",
+      "4": "인스타그램, 유튜브 광고로 노출",
+      "11": "버스 광고로 노출",
+      "12": "지하철 플랫폼 광고로 노출",
+      "6": "A. 기획서의 법칙",
+      "15": "34",
+      "16": "PAPERLOGY",
+      "22": "7-3. 컨슈머저니"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-035",
+    "original_page": 35,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 7,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "5": "PAPERLOGY",
+      "6": "35",
+      "7": "1. 당신에게 꼭 맞는 메모구조 설계하기",
+      "8": "D. 기획의 뿌리 ‘메모’",
+      "9": "페이퍼로지의 메모 키워드",
+      "13": "매력적인 글쓰기",
+      "14": "아름다운 디자인"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-038",
+    "original_page": 38,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 8,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "2": "A. 기획서의 법칙",
+      "4": "38",
+      "5": "PAPERLOGY",
+      "6": "8-2. 솔루션의 5원칙",
+      "7": "기획자의 가설",
+      "8": "문제의 해결",
+      "9": "볼펜을디지털로전환하자",
+      "11": "태블릿용전자펜을제작하자"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-040",
+    "original_page": 40,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 9,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "5": "1. 선명도의 첫 번째 조건, 깊이",
+      "6": "C. 선명도",
+      "7": "PAPERLOGY",
+      "8": "40",
+      "9": "낮은 선명도를 가진의미없는 기획",
+      "10": "깊이, 넓이, 구조를 거친높은 선명도"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-041",
+    "original_page": 41,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 10,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "9": "1. 선명도의 첫 번째 조건, 깊이",
+      "7": "41",
+      "8": "PAPERLOGY",
+      "15": "깊이를 통해 높은 선명도를 가진 기획자",
+      "18": "어느 브랜드 커피인지원두는 어느 대륙 것인지오래된 콩인지 신선한 콩인지커피 볶는 방법은 어떠한지커피 기계는 어떤 걸 썼는지",
+      "14": "낮은 선명도를 가진 기획자",
+      "17": "맛있다맛없다달다쓰다비싸다",
+      "10": "C. 선명도"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-054",
+    "original_page": 54,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 11,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "4": "앨리스의눈동자는 호감도 조사에서9.8점을 획득하였다."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-057",
+    "original_page": 57,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 12,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "4": "강남역 A구역공사장 소음은80데시벨을 초과한다."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-069",
+    "original_page": 69,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 13,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "7": "PAPERLOGY",
+      "8": "69",
+      "2": "광팬 VS 안티"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-081",
+    "original_page": 81,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 14,
+    "category": "photo-story-mockup",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-087",
+    "original_page": 87,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 15,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "2": "B. 기획자의 태도",
+      "4": "87",
+      "5": "PAPERLOGY",
+      "6": "1. 위대한 기획자의 정보접근법",
+      "7": "현재 상황",
+      "8": "다음주부터 캠핑브랜드 기획 담당 예정이나 캠핑 관련 경험과 지식이 전혀 없는 상황"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-089",
+    "original_page": 89,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 16,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "9": "B. 기획자의 태도",
+      "11": "1. 위대한 기획자의 정보접근법",
+      "12": "89",
+      "13": "PAPERLOGY",
+      "8": "제한된 시간 내최대한 많은 캠핑 경험하기",
+      "14": "캠핑에 박식한지인을 찾아많은 대화하기",
+      "15": "캠핑과 관련된온•오프라인 자료 찾아읽기",
+      "17": "인사이트를 뽑아내기 위한 3가지 행동 - BASIC"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-090",
+    "original_page": 90,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 17,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "8": "B. 기획자의 태도",
+      "12": "PAPERLOGY",
+      "6": "그 주제와 관련된‘작품’을 본다",
+      "7": "상위 1% 기획자의 정보접근 +",
+      "10": "1-1. 그 주제와 관련된 작품을 본다",
+      "11": "90"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-110",
+    "original_page": 110,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 18,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "43": "PAPERLOGY",
+      "45": "A. 기획서의 법칙",
+      "44": "110",
+      "5": "3. 상위 1% 기획의 필수조건",
+      "2": "WHYNOT YET",
+      "3": "SOWHAT",
+      "9": "그래서 어쩌라고?",
+      "10": "왜 아직일까?"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-111",
+    "original_page": 111,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 19,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "5": "A. 기획서의 법칙",
+      "8": "3. 상위 1% 기획의 필수조건",
+      "11": "“CS부서 보고에 따르면고객들이 피자를 먹을 때건강에 대한 걱정을 하는비율이 높아졌어요칼로리와 성분에 대해 문의하는 비율이 전월대비10%늘었습니다”",
+      "12": "-마케팅팀 박선아님-",
+      "4": "PAPERLOGY",
+      "7": "111"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-139",
+    "original_page": 139,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 20,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "9": "잘 되는 설득형 기획서의 구조",
+      "2": "일반형 PPT와 설득형 PPT는 다르다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-153",
+    "original_page": 153,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 21,
+    "category": "photo-story-mockup",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-158",
+    "original_page": 158,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 22,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "9": "대왕오징어 등 위협적인 바다생물을감지하는 레이더 및 조준선",
+      "21": "2~3가지의 미사일 공격이가능한 ATTACK 버튼",
+      "28": "직접 바다 속을 운행할 수 있는조종간으로 창꼬치떼를 피하기"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-186",
+    "original_page": 186,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 23,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "5": "2022",
+      "2": "레이아웃의 교과서 = 애플 홈페이지"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-202",
+    "original_page": 202,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 24,
+    "category": "photo-story-mockup",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-207",
+    "original_page": 207,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 25,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "28": "나달, 기아차와15년간 파트너쉽",
+      "29": "기아자동차는 2004년부터 스페인의 테니스 선수 라파엘 나달(Rafael Nadal)을 주목했다. 나달은 그 당시만 해도 무명에가까운 선수였지만 기아자동차가 나달의 발전가능성을 눈여겨본 셈"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-209",
+    "original_page": 209,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 26,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "12": "기획과 프레젠테이션을주제로 유튜브에서19만명의 팬을 만들다",
+      "13": "유튜브 채널 - 페이퍼로지"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-210",
+    "original_page": 210,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 27,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "12": "기획과 프레젠테이션을주제로 유튜브에서19만명의 팬을 만들다",
+      "13": "유튜브 채널 - 페이퍼로지"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-212",
+    "original_page": 212,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 28,
+    "category": "photo-story-mockup",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-224",
+    "original_page": 224,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 29,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "19": "파워포인트에서",
+      "21": "움직이는 아이콘 쌉가능",
+      "23": "모션은",
+      "26": "페이퍼로지 구독자는단 한 장의 장표라도남과 달라야 합니다",
+      "29": "이미 대세"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-244",
+    "original_page": 244,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 30,
+    "category": "photo-story-mockup",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-300",
+    "original_page": 300,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 31,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "2": "광고음악을 메인으로 한 캠페인을 펼치는 주제로PT를 할 때"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-317",
+    "original_page": 317,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 32,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "31": "팀은 중복된 캐릭터를 반기지 않는다. 서로 조금 비슷하고 많이 다를수록 팀워크는 높아진다. 서로 다른 각도의 선들이 모여야 더 입체적인 모양이 만들어지는 것처럼개성, 다름, 차이는 협력과 연대에가장 이상적인 구조의 바탕이 된다.",
+      "32": "박혜진 비평집, 언더스토리 중",
+      "3": "다양성을 추구하는 것은 매우 중요합니다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-337",
+    "original_page": 337,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 33,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "7": "우리는 언제 VIP행사를 진행하게 될지도 모릅니다",
+      "6": "Gravy TrainMaceo PlexKissKissParov Stelar"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-370",
+    "original_page": 370,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 34,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "9": "“  ",
+      "10": "”",
+      "11": "미사여구",
+      "12": "프로들의 기획서는 군더더기가 없으며글이 길지 않고 구조가 간단하다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-392",
+    "original_page": 392,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 35,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "15": "스타벅스 사이렌오더이렇게 구동됩니다!",
+      "16": "PPT는 내용이 가장 중요하지만, 잘 키운 조연은주연 즉, 내용을 더 돋보이게 해 줍니다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-394",
+    "original_page": 394,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 36,
+    "category": "photo-story-mockup",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-407",
+    "original_page": 407,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 37,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "9": "테슬라, 모델S 출시",
+      "10": "Design and order your Tesla Model S, the safest, quickest electric car on the road. Learn about lease and loan options,warranties, EV incentives and more"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-413",
+    "original_page": 413,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 38,
+    "category": "photo-story-mockup",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-438",
+    "original_page": 438,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 39,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "9": "소개합니다! 내 발표를도와주는 제임스씨!",
+      "10": "휴대폰으로 이번 발표에 어울리는 가상인물을 만드세요그리고 다양한 표정을 캡쳐해 적소에 넣어보세요!"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-456",
+    "original_page": 456,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 40,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "13": "뿔타는",
+      "15": "악마양초"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-465",
+    "original_page": 465,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 41,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "16": "뿔타는 악마양초.",
+      "19": "$ 3.7"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-467",
+    "original_page": 467,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 42,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "25": "현업기획자",
+      "27": "즉시적용가능",
+      "37": "디자인 초트렌드",
+      "42": "글래스모피즘이",
+      "44": "PPT에서 쌉가능"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-485",
+    "original_page": 485,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 43,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "12": "9,639억",
+      "13": "5조7천억",
+      "14": "대한민국 VR 시장 규모 예측",
+      "9": "3년 내6배 성장",
+      "21": "출처 : OO일보"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-490",
+    "original_page": 490,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 44,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "27": "2,400억",
+      "28": "1조2천억",
+      "29": "스타벅스 고객 충전금 성장률",
+      "31": "선불 충전금5배 성장",
+      "32": "출처 : OO일보"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-499",
+    "original_page": 499,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 45,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "17": "Serena Williams",
+      "23": "Serena Jameka Williams (born September 26, 1981)[1] is an American professional tennis player, fashion designer, philanthropist, and movie producer. She has won 23 Grand Slam singles titles, the most by any player in the Open Era, and the second-most of all time behind Margaret Court (24). The Women's Tennis Association (WTA) ranked her singles world No. 1 on eight separate occasions between 2002 and 2017."
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-515",
+    "original_page": 515,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 46,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "10": "블랙벨트의 의미"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-520",
+    "original_page": 520,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 47,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "14": "Speaking of which, here's a closer look at her attire she wore during a memorable two weeks in New York",
+      "13": "what Emma wore",
+      "16": "in her run to the title"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-523",
+    "original_page": 523,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 48,
+    "category": "photo-story-mockup",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-531",
+    "original_page": 531,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 49,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "16": "요넥스",
+      "17": "바볼랏",
+      "13": "라코스테"
+    },
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-532",
+    "original_page": 532,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 50,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "10": "배달      전문"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "observed wrapping/substitution risk in LibreOffice"
+  },
+  {
+    "id": "paperology-547",
+    "original_page": 547,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 51,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "3": "“사람들은 늘 평균 이상으로보이고 싶어서 거짓말을 한다”",
+      "5": "- 세스 스티븐스 다비도위츠  (데이터 과학자)"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-548",
+    "original_page": 548,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 52,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "20": "“내가 글을 길게 쓰는 이유는짧게 쓸 시간이 없기 때문이다”"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-580",
+    "original_page": 580,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 53,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "57": "능력치 구분표 조합 따른 목표설정 – 유튜브 채널",
+      "61": "구독자 수 30만+ 달성동영상 200개+ 업로드해외채널* 신규 개설",
+      "62": "* 일본어 채널 개설 및 구독자 10만명+ 모집"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-582",
+    "original_page": 582,
+    "pack": "assets/photo-story-mockup.pptx",
+    "pack_page": 54,
+    "category": "photo-story-mockup",
+    "text_slots": {
+      "15": "능력치 구분표 조합 따른 목표설정 – 출판",
+      "9": "저서 5권+ 추가 달성컨설턴트 부문 신규 진입*종합 베스트셀러 10위 달성",
+      "10": "* 인문학, 컨설팅, 여행 등 아직 시도하지 않았던 분야로의 확장 필수",
+      "13": "출판은 곧 전문분야의 확장을 의미한다저서의 내용은 강의가 되며, 컨설팅이 된다"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-411",
+    "original_page": 411,
+    "pack": "assets/reusable-assets.pptx",
+    "pack_page": 1,
+    "category": "reusable-assets",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-412",
+    "original_page": 412,
+    "pack": "assets/reusable-assets.pptx",
+    "pack_page": 2,
+    "category": "reusable-assets",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-471",
+    "original_page": 471,
+    "pack": "assets/reusable-assets.pptx",
+    "pack_page": 3,
+    "category": "reusable-assets",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-492",
+    "original_page": 492,
+    "pack": "assets/reusable-assets.pptx",
+    "pack_page": 4,
+    "category": "reusable-assets",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-508",
+    "original_page": 508,
+    "pack": "assets/reusable-assets.pptx",
+    "pack_page": 5,
+    "category": "reusable-assets",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-509",
+    "original_page": 509,
+    "pack": "assets/reusable-assets.pptx",
+    "pack_page": 6,
+    "category": "reusable-assets",
+    "text_slots": {},
+    "pdf_correspondence": "needs-native-check",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  },
+  {
+    "id": "paperology-562",
+    "original_page": 562,
+    "pack": "assets/reusable-assets.pptx",
+    "pack_page": 7,
+    "category": "reusable-assets",
+    "text_slots": {
+      "3": "워드에나 쓸 법한 이야기를PPT에 올리니까 문제가 되는 것"
+    },
+    "pdf_correspondence": "text-correspondence>=80%",
+    "font_review": "original proprietary font declarations retained; substitution possible"
+  }
+]

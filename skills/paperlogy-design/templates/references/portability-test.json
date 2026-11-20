@@ -1,0 +1,11 @@
+{
+  "relocated_skill_execution": "PASS",
+  "original_drive_D_blocked_by_Python_audit_hook": "PASS",
+  "native_text_edit_save_reopen": "PASS (recursive group text edit)",
+  "edited_shapes": 2,
+  "pdf_pages": 1,
+  "missing_expected_text": [],
+  "renderer": "LibreOffice26.2.4.2",
+  "font_fallback": "Malgun Gothic",
+  "sample": "paperology-050"
+}

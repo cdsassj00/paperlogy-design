@@ -1,0 +1,3171 @@
+{
+  "mode": "native-template-transfer",
+  "reference_mode": true,
+  "source": "D:\\보고서\\페이퍼로지_2024강의통합본.pptx",
+  "source_bytes": 2025034693,
+  "source_mtime_ns": 1701303940000000000,
+  "spec_sha256": "6bd50328341024e0e68edd200a7fc09c48adf42cd9e58f952020a327260dfa38",
+  "script_sha256": "08cb65f1eff0318f276ec25b489a475e1f6b3014f005bb15ffd34067b343058c",
+  "slides": [
+    {
+      "output_page": 1,
+      "source_page": 25,
+      "source_part": "ppt/slides/slide25.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "5",
+          "source_text": "6. 부가가치 전략",
+          "new_text": "6. 부가가치 전략",
+          "xfrm": [
+            {
+              "off": {
+                "x": "7239001",
+                "y": "272731"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4416878",
+                "cy": "276999"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "Yoon Gothic 750"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "source_text": "B. 기획자의 태도",
+          "new_text": "B. 기획자의 태도",
+          "xfrm": [
+            {
+              "off": {
+                "x": "536121",
+                "y": "272732"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4416878",
+                "cy": "276999"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "Yoon Gothic 750"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "source_text": "25",
+          "new_text": "25",
+          "xfrm": [
+            {
+              "off": {
+                "x": "10308057",
+                "y": "6302231"
+              }
+            },
+            {
+              "ext": {
+                "cx": "1347822",
+                "cy": "276999"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "Montserrat Semi Bold",
+            "Yoon Gothic 750"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "source_text": "PAPERLOGY",
+          "new_text": "PAPERLOGY",
+          "xfrm": [
+            {
+              "off": {
+                "x": "536121",
+                "y": "6308269"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4416878",
+                "cy": "276999"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "Montserrat Semi Bold",
+            "Yoon Gothic 750"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "source_text": "附加價値",
+          "new_text": "附加價値",
+          "xfrm": [
+            {
+              "off": {
+                "x": "4088548",
+                "y": "3044279"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4014904",
+                "cy": "769441"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4400"
+          ],
+          "fonts": [
+            "Yoon Myungjo 790"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "source_text": "신기술과 관련된 프로그램은 다 써볼 것명령어는 결국 ‘똑똑한’ 인간이 채우는 것",
+          "new_text": "신기술과 관련된 프로그램은 다 써볼 것명령어는 결국 ‘똑똑한’ 인간이 채우는 것",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "5982558"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "523220"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 2,
+      "source_page": 44,
+      "source_part": "ppt/slides/slide44.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "22",
+          "source_text": "WE DESIGN",
+          "new_text": "WE DESIGN",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3236981",
+                "y": "3377993"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4997753",
+                "cy": "830997"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4800"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Montserrat Black"
+          ]
+        },
+        {
+          "shape_id": "20",
+          "source_text": "INNOVATION",
+          "new_text": "INNOVATION",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3444618",
+                "y": "3990577"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4582478",
+                "cy": "830997"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4800"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Montserrat Black"
+          ]
+        },
+        {
+          "shape_id": "24",
+          "source_text": "현재 슬로건",
+          "new_text": "현재 슬로건",
+          "xfrm": [
+            {
+              "off": {
+                "x": "5571620",
+                "y": "2510027"
+              }
+            },
+            {
+              "ext": {
+                "cx": "1048760",
+                "cy": "307777"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 3,
+      "source_page": 50,
+      "source_part": "ppt/slides/slide50.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "6",
+          "source_text": "어디를 어떻게 숫자로",
+          "new_text": "어디를 어떻게 숫자로",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2220622",
+                "y": "3075057"
+              }
+            },
+            {
+              "ext": {
+                "cx": "7750756",
+                "cy": "707886"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4000"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular",
+            "Montserrat Black"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "source_text": "PRINCIPLE 04",
+          "new_text": "PRINCIPLE 04",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "2756654"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "369332"
+              }
+            }
+          ],
+          "font_sizes": [],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Montserrat Black"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 4,
+      "source_page": 55,
+      "source_part": "ppt/slides/slide55.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "2",
+          "source_text": "수치화의 장점주관이 객관으로",
+          "new_text": "수치화의 장점주관이 객관으로",
+          "xfrm": [
+            {
+              "off": {
+                "x": "4001105",
+                "y": "2844225"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4576894",
+                "cy": "1169551"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2000",
+            "2800",
+            "5000"
+          ],
+          "fonts": [
+            "DS EndEndEnd ExtraBold",
+            "Yoon YoonGothic300 50"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 5,
+      "source_page": 106,
+      "source_part": "ppt/slides/slide106.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "16",
+          "source_text": "SO WHAT",
+          "new_text": "SO WHAT",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2558653",
+                "y": "2875002"
+              }
+            },
+            {
+              "ext": {
+                "cx": "7074694",
+                "cy": "1107996"
+              }
+            }
+          ],
+          "font_sizes": [
+            "6600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Montserrat Black"
+          ]
+        },
+        {
+          "shape_id": "17",
+          "source_text": "A Magical Solution",
+          "new_text": "A Magical Solution",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "2457804"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "369332"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1800"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular",
+            "Montserrat Black"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 6,
+      "source_page": 125,
+      "source_part": "ppt/slides/slide125.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "8",
+          "source_text": "목적에 따른 PPT의 두 가지 유형",
+          "new_text": "목적에 따른 PPT의 두 가지 유형",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "1961110"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "369332"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1800"
+          ],
+          "fonts": [
+            "Yoon YoonGothic300 50"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "source_text": "결론부터 말하기 혹은결론을 나중에 말하기",
+          "new_text": "결론부터 말하기 혹은결론을 나중에 말하기",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "2370951"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "1446550"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4400"
+          ],
+          "fonts": [
+            "DS EndEndEnd ExtraBold",
+            "DS EndEndEnd Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 7,
+      "source_page": 127,
+      "source_part": "ppt/slides/slide127.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "4",
+          "source_text": "결론부터 말하기 PREP",
+          "new_text": "결론부터 말하기 PREP",
+          "xfrm": [
+            {
+              "off": {
+                "x": "6416040",
+                "y": "2278847"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4231640",
+                "cy": "646331"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1800",
+            "3600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "source_text": "효율성을 극대화하는 방식으로 사내 피피티에서 주로 사용상대방에게 최단 시간 안에 필요한 것만 전달 가능다이렉트한 커뮤니케이션 방식으로 사외 피피티에서는주의해서 사용해야 하는 경우가 있다",
+          "new_text": "효율성을 극대화하는 방식으로 사내 피피티에서 주로 사용상대방에게 최단 시간 안에 필요한 것만 전달 가능다이렉트한 커뮤니케이션 방식으로 사외 피피티에서는주의해서 사용해야 하는 경우가 있다",
+          "xfrm": [
+            {
+              "off": {
+                "x": "6416040",
+                "y": "3097997"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4124960",
+                "cy": "954107"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 8,
+      "source_page": 137,
+      "source_part": "ppt/slides/slide137.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "8",
+          "source_text": "논리와 정렬.",
+          "new_text": "논리와 정렬.",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3070861",
+                "y": "2828836"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6050279",
+                "cy": "1200329"
+              }
+            }
+          ],
+          "font_sizes": [
+            "7200"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 9,
+      "source_page": 142,
+      "source_part": "ppt/slides/slide142.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "4",
+          "source_text": "멀티패키지를 통한전주 한옥마을공간 재구성 제안",
+          "new_text": "멀티패키지를 통한전주 한옥마을공간 재구성 제안",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1393490",
+                "y": "1678811"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3662594",
+                "cy": "1769714"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4400"
+          ],
+          "fonts": [
+            "DS EndEndEnd Bold",
+            "DS EndEndEnd Regular"
+          ]
+        },
+        {
+          "shape_id": "5",
+          "source_text": "페이퍼로지",
+          "new_text": "페이퍼로지",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1393490",
+                "y": "3911084"
+              }
+            },
+            {
+              "ext": {
+                "cx": "895277",
+                "cy": "282128"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "source_text": "187P 제안서 요약본",
+          "new_text": "187P 제안서 요약본",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2480776",
+                "y": "4599088"
+              }
+            },
+            {
+              "ext": {
+                "cx": "1850813",
+                "cy": "338554"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "11",
+          "source_text": "발표자의 긴장 완화 및 기대감 증폭을목적으로 한 표지 동영상 삽입",
+          "new_text": "발표자의 긴장 완화 및 기대감 증폭을목적으로 한 표지 동영상 삽입",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "6067169"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "492443"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1300"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 10,
+      "source_page": 146,
+      "source_part": "ppt/slides/slide146.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "10",
+          "source_text": "시작점.",
+          "new_text": "시작점.",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "1675231"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "1015663"
+              }
+            }
+          ],
+          "font_sizes": [
+            "6000"
+          ],
+          "fonts": [
+            "DS EndEndEnd ExtraBold",
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "14",
+          "source_text": "일부러 찾아와 주기 위한 공간이 되기 위해시작점의 가치를 되찾다.",
+          "new_text": "일부러 찾아와 주기 위한 공간이 되기 위해시작점의 가치를 되찾다.",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "2737059"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "461665"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "Yoon YoonGothic300 50"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "source_text": "본격적인 아이디어 제시 전, 목표제안남과 다른 단어를 쓰는 것이 매우 중요",
+          "new_text": "본격적인 아이디어 제시 전, 목표제안남과 다른 단어를 쓰는 것이 매우 중요",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "6067169"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "492443"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1300"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 11,
+      "source_page": 152,
+      "source_part": "ppt/slides/slide152.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "17",
+          "source_text": "매니페스토",
+          "new_text": "매니페스토",
+          "xfrm": [
+            {
+              "off": {
+                "x": "990276",
+                "y": "2105561"
+              }
+            },
+            {
+              "ext": {
+                "cx": "10211450",
+                "cy": "2646878"
+              }
+            }
+          ],
+          "font_sizes": [
+            "16600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "4",
+          "source_text": "우리가 어떤 철학, 인문학, 문학적 배경을 가지고이번 기획에 접근했는지 숫자와 이성을 제외한 논리를 최대한 담는 구간",
+          "new_text": "우리가 어떤 철학, 인문학, 문학적 배경을 가지고이번 기획에 접근했는지 숫자와 이성을 제외한 논리를 최대한 담는 구간",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "6103948"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "492443"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1300"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 12,
+      "source_page": 173,
+      "source_part": "ppt/slides/slide173.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "17",
+          "source_text": "바볼랏",
+          "new_text": "바볼랏",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2932002",
+                "y": "2019526"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6235700",
+                "cy": "1569660"
+              }
+            }
+          ],
+          "font_sizes": [
+            "9600"
+          ],
+          "fonts": [
+            "DS EndEndEnd Regular"
+          ]
+        },
+        {
+          "shape_id": "15",
+          "source_text": "2022 SEOUL",
+          "new_text": "2022 SEOUL",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2978150",
+                "y": "4754422"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6235700",
+                "cy": "400110"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2000"
+          ],
+          "fonts": [
+            "Arial",
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "14",
+          "source_text": "럭셔리웨어",
+          "new_text": "럭셔리웨어",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3024298",
+                "y": "3268815"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6235700",
+                "cy": "1569660"
+              }
+            }
+          ],
+          "font_sizes": [
+            "9600"
+          ],
+          "fonts": [
+            "DS EndEndEnd Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 13,
+      "source_page": 204,
+      "source_part": "ppt/slides/slide204.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "7",
+          "source_text": "피피티의     은 내용",
+          "new_text": "피피티의     은 내용",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3040063",
+                "y": "3105835"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6111874",
+                "cy": "769441"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 14,
+      "source_page": 217,
+      "source_part": "ppt/slides/slide217.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "4",
+          "source_text": "미니멀리즘",
+          "new_text": "미니멀리즘",
+          "xfrm": [
+            {
+              "off": {
+                "x": "4128283",
+                "y": "2443163"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3302507",
+                "cy": "1938992"
+              }
+            }
+          ],
+          "font_sizes": [
+            "12000"
+          ],
+          "fonts": [
+            "HGTallGGothicssi Pro 60g"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 15,
+      "source_page": 218,
+      "source_part": "ppt/slides/slide218.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "4",
+          "source_text": "진실은 시와 같다",
+          "new_text": "진실은 시와 같다",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3667290",
+                "y": "2459504"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4857420",
+                "cy": "1938992"
+              }
+            }
+          ],
+          "font_sizes": [
+            "12000"
+          ],
+          "fonts": [
+            "HGTallGGothicssi Pro 60g"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 16,
+      "source_page": 251,
+      "source_part": "ppt/slides/slide251.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": []
+    },
+    {
+      "output_page": 17,
+      "source_page": 258,
+      "source_part": "ppt/slides/slide258.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "59",
+          "source_text": "2025 기아자동차광고 콘셉트 제안",
+          "new_text": "2025 기아자동차광고 콘셉트 제안",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1792346",
+                "y": "2569457"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3379451",
+                "cy": "1200329"
+              }
+            }
+          ],
+          "font_sizes": [
+            "3600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "60",
+          "source_text": "페이퍼로지",
+          "new_text": "페이퍼로지",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1792346",
+                "y": "3888433"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3318735",
+                "cy": "400110"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2000"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 18,
+      "source_page": 259,
+      "source_part": "ppt/slides/slide259.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "59",
+          "source_text": "이마트 신규 직영점지역 상권 분석",
+          "new_text": "이마트 신규 직영점지역 상권 분석",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1792346",
+                "y": "2569457"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3550972",
+                "cy": "1200329"
+              }
+            }
+          ],
+          "font_sizes": [
+            "3600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "60",
+          "source_text": "페이퍼로지",
+          "new_text": "페이퍼로지",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1792346",
+                "y": "3888433"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3318735",
+                "cy": "400110"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2000"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 19,
+      "source_page": 267,
+      "source_part": "ppt/slides/slide267.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "6",
+          "source_text": "좋은 기획자는같은 걸 팔아도밸류를 붙인다",
+          "new_text": "좋은 기획자는같은 걸 팔아도밸류를 붙인다",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1624112",
+                "y": "1979414"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3398738",
+                "cy": "1938992"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4000"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "source_text": "살아남는 기획자의 가격 설정 전략과브랜딩의 필수 요소 분석",
+          "new_text": "살아남는 기획자의 가격 설정 전략과브랜딩의 필수 요소 분석",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1624112",
+                "y": "4072597"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3398738",
+                "cy": "584775"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 20,
+      "source_page": 302,
+      "source_part": "ppt/slides/slide302.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "3",
+          "source_text": "Thank YouFor Your Attention",
+          "new_text": "Thank YouFor Your Attention",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3691851",
+                "y": "2951947"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4808298",
+                "cy": "954107"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2800"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Montserrat ExtraBold"
+          ]
+        },
+        {
+          "shape_id": "2",
+          "source_text": "PT의 마지막장을누구나 하는 방식으로 진행할 때",
+          "new_text": "PT의 마지막장을누구나 하는 방식으로 진행할 때",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "6136094"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "492443"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1300"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 21,
+      "source_page": 313,
+      "source_part": "ppt/slides/slide313.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "4",
+          "source_text": "단어",
+          "new_text": "단어",
+          "xfrm": [
+            {
+              "off": {
+                "x": "6989126",
+                "y": "2804190"
+              }
+            },
+            {
+              "ext": {
+                "cx": "2470549",
+                "cy": "1569660"
+              }
+            }
+          ],
+          "font_sizes": [
+            "9600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "11",
+          "source_text": "세가지",
+          "new_text": "세가지",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3383975",
+                "y": "2804190"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4187190",
+                "cy": "1569660"
+              }
+            }
+          ],
+          "font_sizes": [
+            "9600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular"
+          ]
+        },
+        {
+          "shape_id": "12",
+          "source_text": "좋은 기획자가 되는, 좋은 기획서를 쓰는",
+          "new_text": "좋은 기획자가 되는, 좋은 기획서를 쓰는",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "2460659"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "369332"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1800"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 22,
+      "source_page": 314,
+      "source_part": "ppt/slides/slide314.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "3",
+          "source_text": "문장구조·위화감·감정",
+          "new_text": "문장구조·위화감·감정",
+          "xfrm": [
+            {
+              "off": {
+                "x": "4272374",
+                "y": "3051155"
+              }
+            },
+            {
+              "ext": {
+                "cx": "7553866",
+                "cy": "923330"
+              }
+            }
+          ],
+          "font_sizes": [
+            "5400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Yoon 윤굴림 790"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 23,
+      "source_page": 329,
+      "source_part": "ppt/slides/slide329.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "8",
+          "source_text": " ④ 언제 담당하게 될 줄 모르는 생경한 브랜드에 대비",
+          "new_text": " ④ 언제 담당하게 될 줄 모르는 생경한 브랜드에 대비",
+          "xfrm": [
+            {
+              "off": {
+                "x": "5735858",
+                "y": "261233"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "276999"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Walbaum Display SemiBold"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "source_text": "나와 멀리 떨어져 있는명품샵이 보일 때마다 들어가는 이유",
+          "new_text": "나와 멀리 떨어져 있는명품샵이 보일 때마다 들어가는 이유",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "6136094"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "492443"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1300"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 24,
+      "source_page": 344,
+      "source_part": "ppt/slides/slide344.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "8",
+          "source_text": "나의 메모가 해외 판권 수출로",
+          "new_text": "나의 메모가 해외 판권 수출로",
+          "xfrm": [
+            {
+              "off": {
+                "x": "5735858",
+                "y": "261233"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "276999"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Walbaum Display SemiBold"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 25,
+      "source_page": 353,
+      "source_part": "ppt/slides/slide353.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "6",
+          "source_text": "성림첨단산업(주)Investor Relations 2023",
+          "new_text": "성림첨단산업(주)Investor Relations 2023",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1582423",
+                "y": "4338719"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3457079",
+                "cy": "461665"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "DS EndEndEnd Regular",
+            "Montserrat Medium",
+            "현대하모니 M"
+          ]
+        },
+        {
+          "shape_id": "12",
+          "source_text": "SGI. World’s LeadingRare Earth Magnet Component",
+          "new_text": "SGI. World’s LeadingRare Earth Magnet Component",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1582423",
+                "y": "3463572"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6108970",
+                "cy": "707886"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2000"
+          ],
+          "fonts": [
+            "+mn-ea",
+            "DS EndEndEnd Medium",
+            "Montserrat",
+            "Montserrat Black"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 26,
+      "source_page": 356,
+      "source_part": "ppt/slides/slide356.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "9",
+          "source_text": "캐릭터들의새로운 활동공간,메타버스 구축",
+          "new_text": "캐릭터들의새로운 활동공간,메타버스 구축",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1670427",
+                "y": "2408516"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3204723",
+                "cy": "1754326"
+              }
+            }
+          ],
+          "font_sizes": [
+            "3600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "source_text": "기획자  페이퍼로지",
+          "new_text": "기획자  페이퍼로지",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1670426",
+                "y": "4245240"
+              }
+            },
+            {
+              "ext": {
+                "cx": "3318735",
+                "cy": "369332"
+              }
+            }
+          ],
+          "font_sizes": [],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 27,
+      "source_page": 365,
+      "source_part": "ppt/slides/slide365.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "17",
+          "source_text": "평소의 시간들이 쌓여좋은 기획자가 된다.",
+          "new_text": "평소의 시간들이 쌓여좋은 기획자가 된다.",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3688769",
+                "y": "2904317"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4814463",
+                "cy": "954107"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2800"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 28,
+      "source_page": 378,
+      "source_part": "ppt/slides/slide378.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "2",
+          "source_text": "비용과 가치가 같다면고객은 불평하지 않겠지만다음에 만날 기회는 사라진다.",
+          "new_text": "비용과 가치가 같다면고객은 불평하지 않겠지만다음에 만날 기회는 사라진다.",
+          "xfrm": [
+            {
+              "off": {
+                "x": "806404",
+                "y": "582465"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5111977",
+                "cy": "1200329"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "source_text": "마스다 무네아키,「취향을 설계하는 곳, 츠타야」 위즈덤하우스.",
+          "new_text": "마스다 무네아키,「취향을 설계하는 곳, 츠타야」 위즈덤하우스.",
+          "xfrm": [
+            {
+              "off": {
+                "x": "806404",
+                "y": "5629891"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6665913",
+                "cy": "646331"
+              }
+            }
+          ],
+          "font_sizes": [],
+          "fonts": [
+            "DS 최최최최최종 Regular",
+            "Sandoll 맵씨 TTF"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "source_text": "OOOO에너지",
+          "new_text": "OOOO에너지",
+          "xfrm": [
+            {
+              "off": {
+                "x": "9731375",
+                "y": "5914201"
+              }
+            },
+            {
+              "ext": {
+                "cx": "1654220",
+                "cy": "307777"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1400"
+          ],
+          "fonts": [
+            "넥슨Lv1고딕 Bold"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "source_text": "01 – 회사개요일반현황회사연혁핵심인력",
+          "new_text": "01 – 회사개요일반현황회사연혁핵심인력",
+          "xfrm": [
+            {
+              "off": {
+                "x": "9586869",
+                "y": "582465"
+              }
+            },
+            {
+              "ext": {
+                "cx": "1798727",
+                "cy": "1292662"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1600",
+            "2000"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 29,
+      "source_page": 442,
+      "source_part": "ppt/slides/slide442.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "8",
+          "source_text": "빠른 자료 작성을 위한 첫 걸음, 툴바세팅",
+          "new_text": "빠른 자료 작성을 위한 첫 걸음, 툴바세팅",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1720956",
+                "y": "3106133"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6945523",
+                "cy": "584775"
+              }
+            }
+          ],
+          "font_sizes": [
+            "3200"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 30,
+      "source_page": 483,
+      "source_part": "ppt/slides/slide483.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "17",
+          "source_text": "바볼랏",
+          "new_text": "바볼랏",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2932002",
+                "y": "2019526"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6235700",
+                "cy": "1569660"
+              }
+            }
+          ],
+          "font_sizes": [
+            "9600"
+          ],
+          "fonts": [
+            "DS EndEndEnd Regular"
+          ]
+        },
+        {
+          "shape_id": "15",
+          "source_text": "2022 SEOUL",
+          "new_text": "2022 SEOUL",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2978150",
+                "y": "4754422"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6235700",
+                "cy": "400110"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2000"
+          ],
+          "fonts": [
+            "Arial",
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "14",
+          "source_text": "럭셔리웨어",
+          "new_text": "럭셔리웨어",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3024298",
+                "y": "3268815"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6235700",
+                "cy": "1569660"
+              }
+            }
+          ],
+          "font_sizes": [
+            "9600"
+          ],
+          "fonts": [
+            "DS EndEndEnd Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 31,
+      "source_page": 510,
+      "source_part": "ppt/slides/slide510.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "8",
+          "source_text": "패키지 시안 A",
+          "new_text": "패키지 시안 A",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048965",
+                "y": "1024763"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6094070",
+                "cy": "461665"
+              }
+            }
+          ],
+          "font_sizes": [
+            "2400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 32,
+      "source_page": 529,
+      "source_part": "ppt/slides/slide529.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "5",
+          "source_text": "생각하고",
+          "new_text": "생각하고",
+          "xfrm": [
+            {
+              "off": {
+                "x": "6503249",
+                "y": "1885562"
+              }
+            },
+            {
+              "ext": {
+                "cx": "1720343",
+                "cy": "1200329"
+              }
+            }
+          ],
+          "font_sizes": [
+            "7200"
+          ],
+          "fonts": [
+            "HG키큰꼬딕씨 Pro 80g"
+          ]
+        },
+        {
+          "shape_id": "6",
+          "source_text": "글쓰고",
+          "new_text": "글쓰고",
+          "xfrm": [
+            {
+              "off": {
+                "x": "6953445",
+                "y": "2828835"
+              }
+            },
+            {
+              "ext": {
+                "cx": "1305165",
+                "cy": "1200329"
+              }
+            }
+          ],
+          "font_sizes": [
+            "7200"
+          ],
+          "fonts": [
+            "HG키큰꼬딕씨 Pro 80g"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "source_text": "디자인하라",
+          "new_text": "디자인하라",
+          "xfrm": [
+            {
+              "off": {
+                "x": "6237480",
+                "y": "3772108"
+              }
+            },
+            {
+              "ext": {
+                "cx": "2052165",
+                "cy": "1200329"
+              }
+            }
+          ],
+          "font_sizes": [
+            "7200"
+          ],
+          "fonts": [
+            "HG키큰꼬딕씨 Pro 80g"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 33,
+      "source_page": 551,
+      "source_part": "ppt/slides/slide551.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "13",
+          "source_text": "젠터",
+          "new_text": "젠터",
+          "xfrm": [
+            {
+              "off": {
+                "x": "6457949",
+                "y": "1880771"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4348811",
+                "cy": "2646878"
+              }
+            }
+          ],
+          "font_sizes": [
+            "16600"
+          ],
+          "fonts": [
+            "DS EndEndEnd ExtraBold"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "source_text": "프레",
+          "new_text": "프레",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2175861",
+                "y": "1880771"
+              }
+            },
+            {
+              "ext": {
+                "cx": "4195379",
+                "cy": "2646878"
+              }
+            }
+          ],
+          "font_sizes": [
+            "16600"
+          ],
+          "fonts": [
+            "DS EndEndEnd ExtraBold"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 34,
+      "source_page": 554,
+      "source_part": "ppt/slides/slide554.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "5",
+          "source_text": "슬라이드메시지",
+          "new_text": "슬라이드메시지",
+          "xfrm": [
+            {
+              "off": {
+                "x": "5836920",
+                "y": "2459503"
+              }
+            },
+            {
+              "ext": {
+                "cx": "2783614",
+                "cy": "1754326"
+              }
+            }
+          ],
+          "font_sizes": [
+            "5400"
+          ],
+          "fonts": [
+            "HG꼬딕씨_Pro 60g"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 35,
+      "source_page": 558,
+      "source_part": "ppt/slides/slide558.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "10",
+          "source_text": "언어",
+          "new_text": "언어",
+          "xfrm": [
+            {
+              "off": {
+                "x": "7078287",
+                "y": "2644170"
+              }
+            },
+            {
+              "ext": {
+                "cx": "2470548",
+                "cy": "1569660"
+              }
+            }
+          ],
+          "font_sizes": [
+            "9600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "16",
+          "source_text": "기획서의",
+          "new_text": "기획서의",
+          "xfrm": [
+            {
+              "off": {
+                "x": "1937771",
+                "y": "2644170"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5139690",
+                "cy": "1569660"
+              }
+            }
+          ],
+          "font_sizes": [
+            "9600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular"
+          ]
+        },
+        {
+          "shape_id": "17",
+          "source_text": "기획서가 술술 풀리는 말의 구조들! ",
+          "new_text": "기획서가 술술 풀리는 말의 구조들! ",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "2300639"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "369332"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1800"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Medium"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 36,
+      "source_page": 574,
+      "source_part": "ppt/slides/slide574.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "9",
+          "source_text": "페이퍼로지",
+          "new_text": "페이퍼로지",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2367643",
+                "y": "2420047"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5377543",
+                "cy": "769441"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        },
+        {
+          "shape_id": "11",
+          "source_text": "라이프 프로포절",
+          "new_text": "라이프 프로포절",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2367643",
+                "y": "3070998"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5377543",
+                "cy": "769441"
+              }
+            }
+          ],
+          "font_sizes": [
+            "3200",
+            "4400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 37,
+      "source_page": 577,
+      "source_part": "ppt/slides/slide577.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "7",
+          "source_text": "SLOGAN",
+          "new_text": "SLOGAN",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "2688188"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "307777"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Montserrat Black"
+          ]
+        },
+        {
+          "shape_id": "8",
+          "source_text": "Just Like That",
+          "new_text": "Just Like That",
+          "xfrm": [
+            {
+              "off": {
+                "x": "2236371",
+                "y": "2921168"
+              }
+            },
+            {
+              "ext": {
+                "cx": "7719258",
+                "cy": "1015663"
+              }
+            }
+          ],
+          "font_sizes": [
+            "3600",
+            "6000"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Walbaum Display SemiBold"
+          ]
+        },
+        {
+          "shape_id": "10",
+          "source_text": "프로들은 일을 복잡하게 하지 않는다누구보다 쉽고 빠르게 일을 하지만, 더 좋은 결과를 내는 프로가 된다",
+          "new_text": "프로들은 일을 복잡하게 하지 않는다누구보다 쉽고 빠르게 일을 하지만, 더 좋은 결과를 내는 프로가 된다",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "6127492"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "461665"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 38,
+      "source_page": 593,
+      "source_part": "ppt/slides/slide593.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "10",
+          "source_text": "어제보다 무거운 무게어제보다 나은 업무력",
+          "new_text": "어제보다 무거운 무게어제보다 나은 업무력",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "6127492"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "461665"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "DS 최최최최최종 Regular"
+          ]
+        },
+        {
+          "shape_id": "7",
+          "source_text": "SLOGAN",
+          "new_text": "SLOGAN",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "2722052"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "307777"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1400"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Montserrat Black"
+          ]
+        },
+        {
+          "shape_id": "9",
+          "source_text": "인생은 점진적 과부하",
+          "new_text": "인생은 점진적 과부하",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "3031039"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "830997"
+              }
+            }
+          ],
+          "font_sizes": [
+            "4800"
+          ],
+          "fonts": [
+            "DS EndEndEnd Regular",
+            "DS 최최최최최종 Bold",
+            "맑은 고딕"
+          ]
+        }
+      ]
+    },
+    {
+      "output_page": 39,
+      "source_page": 604,
+      "source_part": "ppt/slides/slide604.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "11",
+          "source_text": "정사각형과 대각선, 통행금지, 피라미드를 하늘에서, 연",
+          "new_text": "정사각형과 대각선, 통행금지, 피라미드를 하늘에서, 연",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3048000",
+                "y": "6004312"
+              }
+            },
+            {
+              "ext": {
+                "cx": "6096000",
+                "cy": "338554"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1600"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold",
+            "Montserrat Black"
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "Notes and animations removed for a static editable sample. Fonts retain source declarations; render substitution must be checked.",
+    "Static pack: audio/video/animations/notes/external links omitted; poster retained; raster images limited to 1920 px and JPEG quality 88; original font declarations retained, font files not bundled."
+  ],
+  "static_removed_relationships": [
+    {
+      "part": "ppt/replicaSlides/_rels/slide9.xml.rels",
+      "type": "http://schemas.microsoft.com/office/2007/relationships/media",
+      "target": "/ppt/media/media4.mp4"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide13.xml.rels",
+      "type": "http://schemas.microsoft.com/office/2007/relationships/media",
+      "target": "/ppt/media/media12.mp4"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide16.xml.rels",
+      "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/video",
+      "target": "/ppt/media/media14.mov"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide16.xml.rels",
+      "type": "http://schemas.microsoft.com/office/2007/relationships/media",
+      "target": "/ppt/media/media14.mov"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide25.xml.rels",
+      "type": "http://schemas.microsoft.com/office/2007/relationships/media",
+      "target": "/ppt/media/media16.mp4"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide25.xml.rels",
+      "type": "http://schemas.microsoft.com/office/2007/relationships/media",
+      "target": "/ppt/media/media1.wav"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide25.xml.rels",
+      "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/video",
+      "target": "/ppt/media/media16.mp4"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide26.xml.rels",
+      "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/video",
+      "target": "/ppt/media/media5.mp4"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide26.xml.rels",
+      "type": "http://schemas.microsoft.com/office/2007/relationships/media",
+      "target": "/ppt/media/media5.mp4"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide27.xml.rels",
+      "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/video",
+      "target": "/ppt/media/media22.mp4"
+    },
+    {
+      "part": "ppt/replicaSlides/_rels/slide27.xml.rels",
+      "type": "http://schemas.microsoft.com/office/2007/relationships/media",
+      "target": "/ppt/media/media22.mp4"
+    }
+  ],
+  "optimized_images": [
+    {
+      "part": "ppt/media/image82.jpg",
+      "old_bytes": 1932944,
+      "new_bytes": 483065,
+      "old_px": [
+        4000,
+        2250
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image433.jpg",
+      "old_bytes": 838766,
+      "new_bytes": 64509,
+      "old_px": [
+        4001,
+        2251
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image431.jpg",
+      "old_bytes": 767156,
+      "new_bytes": 61054,
+      "old_px": [
+        4001,
+        2251
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image432.png",
+      "old_bytes": 60165,
+      "new_bytes": 30259,
+      "old_px": [
+        2666,
+        1598
+      ],
+      "new_px": [
+        1920,
+        1151
+      ]
+    },
+    {
+      "part": "ppt/media/image77.png",
+      "old_bytes": 452827,
+      "new_bytes": 94439,
+      "old_px": [
+        4399,
+        965
+      ],
+      "new_px": [
+        1920,
+        421
+      ]
+    },
+    {
+      "part": "ppt/media/image277.png",
+      "old_bytes": 94901,
+      "new_bytes": 86413,
+      "old_px": [
+        616,
+        405
+      ],
+      "new_px": [
+        616,
+        405
+      ]
+    },
+    {
+      "part": "ppt/media/image425.png",
+      "old_bytes": 607949,
+      "new_bytes": 599348,
+      "old_px": [
+        832,
+        828
+      ],
+      "new_px": [
+        832,
+        828
+      ]
+    },
+    {
+      "part": "ppt/media/image423.png",
+      "old_bytes": 1305316,
+      "new_bytes": 720796,
+      "old_px": [
+        1077,
+        2518
+      ],
+      "new_px": [
+        821,
+        1920
+      ]
+    },
+    {
+      "part": "ppt/media/image406.png",
+      "old_bytes": 412656,
+      "new_bytes": 339860,
+      "old_px": [
+        924,
+        979
+      ],
+      "new_px": [
+        924,
+        979
+      ]
+    },
+    {
+      "part": "ppt/media/image407.png",
+      "old_bytes": 380388,
+      "new_bytes": 230332,
+      "old_px": [
+        2560,
+        1440
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image392.png",
+      "old_bytes": 1330400,
+      "new_bytes": 1060207,
+      "old_px": [
+        2115,
+        1154
+      ],
+      "new_px": [
+        1920,
+        1048
+      ]
+    },
+    {
+      "part": "ppt/media/image157.png",
+      "old_bytes": 2253222,
+      "new_bytes": 1536603,
+      "old_px": [
+        1947,
+        1791
+      ],
+      "new_px": [
+        1920,
+        1766
+      ]
+    },
+    {
+      "part": "ppt/media/image381.png",
+      "old_bytes": 1383734,
+      "new_bytes": 817695,
+      "old_px": [
+        2560,
+        1440
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image156.png",
+      "old_bytes": 942277,
+      "new_bytes": 324122,
+      "old_px": [
+        3418,
+        1614
+      ],
+      "new_px": [
+        1920,
+        907
+      ]
+    },
+    {
+      "part": "ppt/media/image357.png",
+      "old_bytes": 1820040,
+      "new_bytes": 327245,
+      "old_px": [
+        3982,
+        2470
+      ],
+      "new_px": [
+        1920,
+        1191
+      ]
+    },
+    {
+      "part": "ppt/media/image304.png",
+      "old_bytes": 539694,
+      "new_bytes": 295296,
+      "old_px": [
+        1280,
+        720
+      ],
+      "new_px": [
+        1280,
+        720
+      ]
+    },
+    {
+      "part": "ppt/media/image139.png",
+      "old_bytes": 982936,
+      "new_bytes": 653254,
+      "old_px": [
+        1280,
+        720
+      ],
+      "new_px": [
+        1280,
+        720
+      ]
+    },
+    {
+      "part": "ppt/media/image298.png",
+      "old_bytes": 4305962,
+      "new_bytes": 4073103,
+      "old_px": [
+        1920,
+        1080
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image294.png",
+      "old_bytes": 437493,
+      "new_bytes": 266665,
+      "old_px": [
+        2822,
+        1581
+      ],
+      "new_px": [
+        1920,
+        1076
+      ]
+    },
+    {
+      "part": "ppt/media/image290.png",
+      "old_bytes": 2948858,
+      "new_bytes": 2713776,
+      "old_px": [
+        1711,
+        1147
+      ],
+      "new_px": [
+        1711,
+        1147
+      ]
+    },
+    {
+      "part": "ppt/media/image273.png",
+      "old_bytes": 78431,
+      "new_bytes": 75081,
+      "old_px": [
+        843,
+        843
+      ],
+      "new_px": [
+        843,
+        843
+      ]
+    },
+    {
+      "part": "ppt/media/image278.png",
+      "old_bytes": 767044,
+      "new_bytes": 587616,
+      "old_px": [
+        1834,
+        1016
+      ],
+      "new_px": [
+        1834,
+        1016
+      ]
+    },
+    {
+      "part": "ppt/media/image193.jpeg",
+      "old_bytes": 3945048,
+      "new_bytes": 606162,
+      "old_px": [
+        4400,
+        2475
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image276.png",
+      "old_bytes": 23800089,
+      "new_bytes": 3818531,
+      "old_px": [
+        4400,
+        2477
+      ],
+      "new_px": [
+        1920,
+        1081
+      ]
+    },
+    {
+      "part": "ppt/media/image272.jpeg",
+      "old_bytes": 3384569,
+      "new_bytes": 571321,
+      "old_px": [
+        3708,
+        2475
+      ],
+      "new_px": [
+        1920,
+        1282
+      ]
+    },
+    {
+      "part": "ppt/media/image265.png",
+      "old_bytes": 5097715,
+      "new_bytes": 2555392,
+      "old_px": [
+        2765,
+        1710
+      ],
+      "new_px": [
+        1920,
+        1187
+      ]
+    },
+    {
+      "part": "ppt/media/image255.jpg",
+      "old_bytes": 130659,
+      "new_bytes": 91748,
+      "old_px": [
+        1110,
+        984
+      ],
+      "new_px": [
+        1110,
+        984
+      ]
+    },
+    {
+      "part": "ppt/media/image256.png",
+      "old_bytes": 1341413,
+      "new_bytes": 1217029,
+      "old_px": [
+        1306,
+        727
+      ],
+      "new_px": [
+        1306,
+        727
+      ]
+    },
+    {
+      "part": "ppt/media/image253.png",
+      "old_bytes": 1824445,
+      "new_bytes": 1704090,
+      "old_px": [
+        1303,
+        868
+      ],
+      "new_px": [
+        1303,
+        868
+      ]
+    },
+    {
+      "part": "ppt/media/image254.png",
+      "old_bytes": 1981366,
+      "new_bytes": 1770718,
+      "old_px": [
+        1785,
+        993
+      ],
+      "new_px": [
+        1785,
+        993
+      ]
+    },
+    {
+      "part": "ppt/media/image246.png",
+      "old_bytes": 2108124,
+      "new_bytes": 1483838,
+      "old_px": [
+        2160,
+        2160
+      ],
+      "new_px": [
+        1920,
+        1920
+      ]
+    },
+    {
+      "part": "ppt/media/image221.png",
+      "old_bytes": 121467,
+      "new_bytes": 60426,
+      "old_px": [
+        2560,
+        1440
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image219.png",
+      "old_bytes": 28203,
+      "new_bytes": 19142,
+      "old_px": [
+        512,
+        512
+      ],
+      "new_px": [
+        512,
+        512
+      ]
+    },
+    {
+      "part": "ppt/media/image220.png",
+      "old_bytes": 27306,
+      "new_bytes": 19199,
+      "old_px": [
+        512,
+        512
+      ],
+      "new_px": [
+        512,
+        512
+      ]
+    },
+    {
+      "part": "ppt/media/image216.png",
+      "old_bytes": 67472,
+      "new_bytes": 54238,
+      "old_px": [
+        512,
+        512
+      ],
+      "new_px": [
+        512,
+        512
+      ]
+    },
+    {
+      "part": "ppt/media/image217.png",
+      "old_bytes": 46211,
+      "new_bytes": 31456,
+      "old_px": [
+        512,
+        512
+      ],
+      "new_px": [
+        512,
+        512
+      ]
+    },
+    {
+      "part": "ppt/media/image218.png",
+      "old_bytes": 182897,
+      "new_bytes": 93752,
+      "old_px": [
+        2560,
+        1440
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image214.png",
+      "old_bytes": 33746,
+      "new_bytes": 24224,
+      "old_px": [
+        512,
+        512
+      ],
+      "new_px": [
+        512,
+        512
+      ]
+    },
+    {
+      "part": "ppt/media/image215.png",
+      "old_bytes": 101667,
+      "new_bytes": 75533,
+      "old_px": [
+        512,
+        512
+      ],
+      "new_px": [
+        512,
+        512
+      ]
+    },
+    {
+      "part": "ppt/media/image200.png",
+      "old_bytes": 597612,
+      "new_bytes": 338827,
+      "old_px": [
+        1920,
+        1080
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image201.png",
+      "old_bytes": 15268,
+      "new_bytes": 15076,
+      "old_px": [
+        120,
+        120
+      ],
+      "new_px": [
+        120,
+        120
+      ]
+    },
+    {
+      "part": "ppt/media/image158.png",
+      "old_bytes": 693887,
+      "new_bytes": 585039,
+      "old_px": [
+        1593,
+        895
+      ],
+      "new_px": [
+        1593,
+        895
+      ]
+    },
+    {
+      "part": "ppt/media/image143.png",
+      "old_bytes": 1056056,
+      "new_bytes": 930708,
+      "old_px": [
+        1847,
+        1839
+      ],
+      "new_px": [
+        1847,
+        1839
+      ]
+    },
+    {
+      "part": "ppt/media/image136.jpeg",
+      "old_bytes": 102745,
+      "new_bytes": 93062,
+      "old_px": [
+        960,
+        640
+      ],
+      "new_px": [
+        960,
+        640
+      ]
+    },
+    {
+      "part": "ppt/media/image135.png",
+      "old_bytes": 956112,
+      "new_bytes": 510017,
+      "old_px": [
+        1280,
+        720
+      ],
+      "new_px": [
+        1280,
+        720
+      ]
+    },
+    {
+      "part": "ppt/media/image129.png",
+      "old_bytes": 1500292,
+      "new_bytes": 1204219,
+      "old_px": [
+        1676,
+        1906
+      ],
+      "new_px": [
+        1676,
+        1906
+      ]
+    },
+    {
+      "part": "ppt/media/image128.png",
+      "old_bytes": 573262,
+      "new_bytes": 194004,
+      "old_px": [
+        3780,
+        1814
+      ],
+      "new_px": [
+        1920,
+        921
+      ]
+    },
+    {
+      "part": "ppt/media/image10.png",
+      "old_bytes": 6945589,
+      "new_bytes": 1044569,
+      "old_px": [
+        3827,
+        2474
+      ],
+      "new_px": [
+        1920,
+        1241
+      ]
+    },
+    {
+      "part": "ppt/media/image11.jpeg",
+      "old_bytes": 439515,
+      "new_bytes": 183173,
+      "old_px": [
+        1920,
+        1080
+      ],
+      "new_px": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "part": "ppt/media/image78.png",
+      "old_bytes": 431241,
+      "new_bytes": 227784,
+      "old_px": [
+        1172,
+        632
+      ],
+      "new_px": [
+        1172,
+        632
+      ]
+    },
+    {
+      "part": "ppt/media/image36.png",
+      "old_bytes": 887261,
+      "new_bytes": 841458,
+      "old_px": [
+        1336,
+        748
+      ],
+      "new_px": [
+        1336,
+        748
+      ]
+    },
+    {
+      "part": "ppt/media/image37.png",
+      "old_bytes": 1524897,
+      "new_bytes": 1236928,
+      "old_px": [
+        2010,
+        1125
+      ],
+      "new_px": [
+        1920,
+        1075
+      ]
+    }
+  ],
+  "output_bytes": 38300499,
+  "parts": 340,
+  "explicit_font_fallback": null
+}

@@ -1,0 +1,5 @@
+{
+  "name": "paperlogy-design",
+  "owner": { "name": "cdsassj00" },
+  "plugins": [ { "name": "paperlogy-design", "source": "./", "description": "페이퍼로지 디자인 원칙 + 189장 템플릿 통합 스킬" } ]
+}

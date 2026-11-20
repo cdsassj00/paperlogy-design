@@ -1,0 +1,8 @@
+{
+  "name": "paperlogy-design",
+  "version": "1.0.0",
+  "description": "페이퍼로지 디자인 원칙(61원칙·24 아키타입 HTML 덱·글꼴)과 원본 189장 편집 가능 PPTX 템플릿 카탈로그를 묶은 발표자료 디자인 스킬",
+  "author": { "name": "신성진 (cdsassj00)" },
+  "repository": "https://github.com/cdsassj00/paperlogy-design",
+  "skills": "./skills/"
+}

@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Paperlogy Deck</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+/* ── Fonts: 설치본(local) → 덱 옆 fonts/ 폴더(스킬 assets/fonts/woff2 복사본) → CDN ──
+   PL = Paperlogy(제목·디스플레이), PD = Pretendard(본문·표·각주) */
+@font-face{font-family:'PL';font-weight:100;font-display:swap;src:local('Paperlogy 1 Thin'),url('fonts/Paperlogy-1Thin.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-1Thin.woff2') format('woff2');}
+@font-face{font-family:'PL';font-weight:200;font-display:swap;src:local('Paperlogy 2 ExtraLight'),url('fonts/Paperlogy-2ExtraLight.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-2ExtraLight.woff2') format('woff2');}
+@font-face{font-family:'PL';font-weight:300;font-display:swap;src:local('Paperlogy 3 Light'),url('fonts/Paperlogy-3Light.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-3Light.woff2') format('woff2');}
+@font-face{font-family:'PL';font-weight:400;font-display:swap;src:local('Paperlogy 4 Regular'),url('fonts/Paperlogy-4Regular.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-4Regular.woff2') format('woff2');}
+@font-face{font-family:'PL';font-weight:500;font-display:swap;src:local('Paperlogy 5 Medium'),url('fonts/Paperlogy-5Medium.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-5Medium.woff2') format('woff2');}
+@font-face{font-family:'PL';font-weight:600;font-display:swap;src:local('Paperlogy 6 SemiBold'),url('fonts/Paperlogy-6SemiBold.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-6SemiBold.woff2') format('woff2');}
+@font-face{font-family:'PL';font-weight:700;font-display:swap;src:local('Paperlogy 7 Bold'),url('fonts/Paperlogy-7Bold.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-7Bold.woff2') format('woff2');}
+@font-face{font-family:'PL';font-weight:800;font-display:swap;src:local('Paperlogy 8 ExtraBold'),url('fonts/Paperlogy-8ExtraBold.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-8ExtraBold.woff2') format('woff2');}
+@font-face{font-family:'PL';font-weight:900;font-display:swap;src:local('Paperlogy 9 Black'),url('fonts/Paperlogy-9Black.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-9Black.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:100;font-display:swap;src:local('Pretendard Thin'),url('fonts/Pretendard-Thin.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-Thin.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:200;font-display:swap;src:local('Pretendard ExtraLight'),url('fonts/Pretendard-ExtraLight.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-ExtraLight.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:300;font-display:swap;src:local('Pretendard Light'),url('fonts/Pretendard-Light.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-Light.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:400;font-display:swap;src:local('Pretendard Regular'),url('fonts/Pretendard-Regular.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-Regular.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:500;font-display:swap;src:local('Pretendard Medium'),url('fonts/Pretendard-Medium.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-Medium.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:600;font-display:swap;src:local('Pretendard SemiBold'),url('fonts/Pretendard-SemiBold.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-SemiBold.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:700;font-display:swap;src:local('Pretendard Bold'),url('fonts/Pretendard-Bold.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-Bold.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:800;font-display:swap;src:local('Pretendard ExtraBold'),url('fonts/Pretendard-ExtraBold.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-ExtraBold.woff2') format('woff2');}
+@font-face{font-family:'PD';font-weight:900;font-display:swap;src:local('Pretendard Black'),url('fonts/Pretendard-Black.woff2') format('woff2'),url('https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/woff2/Pretendard-Black.woff2') format('woff2');}
+
+/* ── Tokens (references/design-tokens.md) ──────────────────────────── */
+:root{
+  --bg:#000; --title:#fff; --sub:#EBEBEB; --body:#BEBEBE; --dim:#3a3b40; --dim2:#5A5B60;
+  --paper:#fff; --paper2:#EFF0F2; --ink:#1D1D1F; --ink-body:#595959; --line:#D0D1DD;
+  --pink:#FF2F92; --magenta:#CA6093; --plum:#703288; --mint:#37B68F; --mint2:#53C3AA;
+  --blue:#4947FF; --lav:#7B78FF; --violet:#C67AFF; --gold:#CF9C51; --orange:#F08A24;
+  /* 액센트 체계 — 테마 프리셋(.deck data-theme)을 쓰거나 아래 5개를 함께 바꾼다 */
+  --accent:var(--pink);           /* 주 액센트: 태그·차트·라이트 배경 강조 */
+  --accent-on-dark:#FF4FA3;       /* 검정 배경 위 글자·마침표용 밝은 변형 */
+  --accent2:var(--blue);          /* 보조 1색: 두 번째 시리즈·보조 태그 (회색+활성1 원칙 유지) */
+  --dot:var(--accent-on-dark);    /* 제목 마침표. 업종색 덱에서도 Paperlogy 서명을 원하면 var(--pink) */
+  --glow1:#8a39c0; --glow2:#4a1670; --glow3:#5b7bff;  /* 오로라·오브·후광 */
+  --ko:'PL','Paperlogy','PD','Pretendard','Noto Sans KR',sans-serif;   /* 제목·디스플레이 */
+  --ko-body:'PD','Pretendard','PL','Noto Sans KR',sans-serif;     /* 본문·표·각주 */
+  --en:'Montserrat','PL',sans-serif;
+  --tight:-0.06em; --tight-body:-0.04em;
+}
+/* 테마 프리셋 — 업종 연상 컬러(P19). <div class="deck" data-theme="blue"> */
+[data-theme=blue]{--accent:#4947FF;--accent-on-dark:#8E8CFF;--accent2:#1F9873;--dot:#8E8CFF;--glow1:#3346d6;--glow2:#121c66;--glow3:#36c3ff}
+[data-theme=mint]{--accent:#239E78;--accent-on-dark:#53E0B4;--accent2:#4947FF;--dot:#53E0B4;--glow1:#1f8f72;--glow2:#0b3a30;--glow3:#3aa0ff}
+[data-theme=red]{--accent:#E53935;--accent-on-dark:#FF6B66;--accent2:#5A5B60;--dot:#FF6B66;--glow1:#b0283a;--glow2:#4a0d18;--glow3:#ff8a3d}
+[data-theme=yellow]{--accent:#A07E00;--accent-on-dark:#FFD84D;--accent2:#4947FF;--dot:#FFD84D;--glow1:#8a6a00;--glow2:#2e2400;--glow3:#ffb347}
+.slide.paper{background:#fff;color:var(--ink);--accent-on-dark:var(--accent);--dot:var(--accent)}  /* 라이트 장표 */
+*{box-sizing:border-box;margin:0;padding:0}
+p,.t-body,.note,table.rp,.rp-card p,.kpi span,.roadmap span,.bars>div{font-family:var(--ko-body)}
+html,body{background:#111;color:var(--title);font-family:var(--ko);-webkit-font-smoothing:antialiased}
+.deck{position:relative}
+.slide{position:relative;width:1280px;height:720px;overflow:hidden;background:var(--bg);letter-spacing:var(--tight-body);
+  font-weight:400;line-height:1.5}
+/* viewer: one slide at a time, scaled to fit; ?all=1 or print shows all */
+body.viewer .slide{display:none;position:absolute;left:50%;top:50%;transform-origin:center}
+body.viewer .slide.on{display:block}
+body.all{background:#111}
+body.all .slide{margin:0 auto 24px}
+@page{size:1280px 720px;margin:0}
+@media print{body.viewer .slide,body.all .slide{display:block!important;position:relative!important;transform:none!important;left:0!important;top:0!important;margin:0!important;break-after:page}}
+
+/* ── Typography primitives ─────────────────────────────────────────── */
+.t-hero{font-weight:900;letter-spacing:-0.0625em;line-height:1}
+.t-big{font-size:52px;font-weight:800;letter-spacing:var(--tight);line-height:1.18}   /* 큰 타이틀 38–42pt */
+.t-small{font-size:32px;font-weight:700;letter-spacing:var(--tight);line-height:1.25} /* 작은 타이틀 ≤25pt */
+.t-body{font-size:22px;color:var(--body);line-height:1.5}
+.r{font-weight:400}                    /* 제목 안의 조사·서술어 */
+.l{font-weight:300}
+.k{font-weight:800}                    /* 제목 안의 키워드 */
+.dot{font-style:normal;color:var(--dot)}
+.c-accent{color:var(--accent-on-dark)} .c-accent2{color:var(--accent2)} .c-mint{color:var(--mint)} .c-blue{color:var(--blue)} .c-gold{color:var(--gold)} .c-orange{color:var(--orange)} .c-dim{color:var(--dim)}
+.en{font-family:var(--en);letter-spacing:0}
+.k-en{font-family:var(--en);font-weight:800;letter-spacing:-.02em}   /* 한글 제목 속 영문 키워드 */
+.on-orb{text-shadow:0 2px 14px rgba(0,0,0,.75)}
+.label{font-family:var(--en);font-weight:900;font-size:14px;letter-spacing:.02em;text-transform:uppercase}
+.note{position:absolute;left:0;right:0;bottom:30px;text-align:center;font-size:12px;color:#8a8a90}  /* 각주·출처·'예시(샘플) 수치' 표기 */
+.hl{background:linear-gradient(transparent 58%,rgba(255,229,0,.55) 58%)}  /* 형광펜 강조 */
+
+/* ── Backgrounds ───────────────────────────────────────────────────── */
+.bg-aurora-top{background:radial-gradient(ellipse 62% 58% at 50% -12%,var(--glow1) 0%,var(--glow2) 30%,color-mix(in srgb,var(--glow2) 30%,#000) 58%,#000 75%)}
+.bg-aurora-bottom{background:radial-gradient(ellipse 70% 60% at 62% 118%,var(--glow3) 0%,var(--glow1) 26%,color-mix(in srgb,var(--glow2) 60%,#000) 52%,#000 78%)}
+.bg-nebula{background:
+  radial-gradient(circle at 18% 112%,transparent 0 150px,rgba(255,150,60,.55) 152px,rgba(255,120,40,.0) 175px),
+  radial-gradient(ellipse 32% 40% at 52% 18%,rgba(56,200,150,.38),transparent 70%),
+  radial-gradient(ellipse 40% 45% at 85% 10%,rgba(40,80,200,.45),transparent 70%),
+  radial-gradient(ellipse 30% 30% at 40% 30%,rgba(120,255,220,.18),transparent 70%),#000}
+.bg-dark-report{background:linear-gradient(180deg,#222 0%,#0b0b0b 60%,#030303 100%)}
+.bg-holo{background:
+  radial-gradient(ellipse 50% 60% at 15% 20%,#a8f0ff 0%,transparent 60%),
+  radial-gradient(ellipse 50% 60% at 85% 25%,#c9b6ff 0%,transparent 60%),
+  radial-gradient(ellipse 60% 60% at 70% 90%,#ffb3e6 0%,transparent 60%),
+  radial-gradient(ellipse 60% 60% at 20% 90%,#b8ffd9 0%,transparent 60%),#e9ecff;color:var(--ink)}
+/* night-sky section divider (replace with a real photo via style="--img:url(...)") */
+.bg-nightsky{background:var(--img,none) center/cover,
+  radial-gradient(1.2px 1.2px at 12% 18%,#fff 50%,transparent 51%),radial-gradient(1px 1px at 33% 9%,#fff 50%,transparent 51%),
+  radial-gradient(1.4px 1.4px at 57% 22%,#fff 50%,transparent 51%),radial-gradient(1px 1px at 71% 12%,#fff 50%,transparent 51%),
+  radial-gradient(1.2px 1.2px at 88% 26%,#fff 50%,transparent 51%),radial-gradient(1px 1px at 22% 33%,#fff 50%,transparent 51%),
+  radial-gradient(3px 3px at 50% 30%,#fff 40%,rgba(255,255,255,.25) 60%,transparent 70%),
+  radial-gradient(ellipse 60% 30% at 30% 25%,rgba(150,110,220,.35),transparent 70%),
+  linear-gradient(180deg,#0d1a5c 0%,#283a9e 38%,#5b4fb8 58%,#c76a9e 72%,#e7889a 76%,#2a2f7a 80%)}
+.bg-nightsky::after{content:"";position:absolute;left:0;right:0;bottom:0;height:34%;
+  background:linear-gradient(180deg,#e9eefc 0%,#9aa6e0 30%,#3b3f8e 70%,#1b1d55 100%);
+  clip-path:polygon(0 62%,6% 48%,11% 55%,17% 38%,22% 46%,28% 30%,33% 44%,40% 36%,46% 18%,50% 0,54% 20%,60% 34%,66% 26%,72% 42%,78% 33%,84% 47%,90% 37%,95% 50%,100% 44%,100% 100%,0 100%)}
+.bg-nightsky::before{content:"";position:absolute;left:0;right:0;bottom:14%;height:26%;background:linear-gradient(180deg,#6f78c8,#2e3380);opacity:.85;
+  clip-path:polygon(0 70%,9% 52%,16% 60%,25% 40%,34% 58%,43% 46%,52% 60%,61% 38%,70% 55%,80% 42%,90% 58%,100% 48%,100% 100%,0 100%)}
+.bg-nightsky[style*="--img"]::before{display:none}
+.bg-nightsky[style*="--img"]::after{display:none}
+/* dark landscape interlude */
+.bg-night{background:var(--img,none) center/cover,
+  radial-gradient(1px 1px at 20% 20%,#fff8 50%,transparent 51%),radial-gradient(1px 1px at 65% 14%,#fff8 50%,transparent 51%),
+  radial-gradient(1px 1px at 80% 30%,#fff6 50%,transparent 51%),
+  linear-gradient(180deg,#05070f 0%,#0b1124 55%,#121a33 70%,#04060c 100%)}
+.bg-night::after{content:"";position:absolute;left:0;right:0;bottom:0;height:30%;background:#04060c;
+  clip-path:polygon(0 30%,15% 22%,30% 34%,45% 20%,60% 30%,78% 18%,100% 28%,100% 100%,0 100%)}
+.bg-night[style*="--img"]::after{display:none}
+/* photo slot: style="--img:url(photo.jpg)" ; without it a tonal placeholder is shown */
+.photo{position:absolute;background:var(--img,linear-gradient(135deg,#3a3d46,#15161a)) center/cover}
+.photo.gray{filter:grayscale(1) contrast(1.05)}
+.mask-left::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,.55) 38%,rgba(0,0,0,0) 62%)}
+
+/* ── Objects ───────────────────────────────────────────────────────── */
+.orb{position:absolute;border-radius:50%;
+  background:radial-gradient(circle at 76% 24%,color-mix(in srgb,var(--glow1) 45%,#fff) 0%,var(--glow1) 18%,var(--glow2) 40%,#0a0310 68%,#000 100%);
+  box-shadow:0 0 80px color-mix(in srgb,var(--glow1) 25%,transparent)}
+.sphere-black{position:absolute;border-radius:50%;background:radial-gradient(circle at 34% 28%,#8a8a8a 0%,#2a2a2a 18%,#070707 52%,#000 80%);
+  box-shadow:0 30px 40px -10px rgba(0,0,0,.8)}
+.cube-white{position:absolute;width:110px;height:110px;transform:rotate(-28deg) skew(6deg,6deg);border-radius:6px;
+  background:linear-gradient(145deg,#fff 0%,#f2f2f4 45%,#cfd0d6 100%);box-shadow:24px 30px 40px rgba(0,0,0,.18)}
+.halo{position:absolute;border-radius:50%;background:radial-gradient(circle,color-mix(in srgb,var(--glow1) 75%,transparent) 0%,color-mix(in srgb,var(--glow3) 35%,transparent) 35%,rgba(0,0,0,0) 70%)}
+.planet-rim{position:absolute;border-radius:50%;box-shadow:inset 18px -10px 30px -6px rgba(255,150,60,.75)}
+
+/* glass card + nails (못 박기) */
+.glass{position:absolute;background:rgba(18,20,24,.74);border:1px solid rgba(255,255,255,.07);border-radius:8px;
+  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);box-shadow:0 20px 50px rgba(0,0,0,.45)}
+.glass.light{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35)}
+.nails{position:absolute;inset:14px;pointer-events:none}
+.nails i{position:absolute;font-style:normal;color:#e9e9e9;font:700 16px/1 var(--en)}
+.nails i:nth-child(1){left:0;top:0}.nails i:nth-child(2){right:0;top:0}.nails i:nth-child(3){left:0;bottom:0}.nails i:nth-child(4){right:0;bottom:0}
+.n-corner i{width:12px;height:12px;border:2px solid #e9e9e9}
+.n-corner i:nth-child(1){border-right:0;border-bottom:0}.n-corner i:nth-child(2){border-left:0;border-bottom:0}
+.n-corner i:nth-child(3){border-right:0;border-top:0}.n-corner i:nth-child(4){border-left:0;border-top:0}
+.n-circle i{width:12px;height:12px;border:1.5px solid #e9e9e9;border-radius:50%}
+.n-plus i{font-size:16px}  /* 내용 <i>+</i>×4 */
+.n-text i{font-size:15px}  /* 내용 <i>A</i><i>B</i><i>C</i><i>D</i> */
+
+/* tags (컬러 + 같은 색 글로우) */
+.tag{display:inline-flex;align-items:center;justify-content:center;height:30px;padding:0 14px;border-radius:2px;
+  font-size:13px;font-weight:700;color:#fff;background:var(--c,var(--accent));
+  box-shadow:0 8px 18px -6px color-mix(in srgb,var(--c,var(--accent)) 75%,transparent)}
+.tag.gray{--c:#4a4b50}
+
+/* circle flow (K10) */
+.ring{position:absolute;border-radius:50%;display:flex;align-items:center;justify-content:center;text-align:center;
+  font-weight:800;font-size:20px;line-height:1.25;letter-spacing:var(--tight);color:#fff;
+  background:radial-gradient(circle at 50% 50%,#1a1a1e 55%,#2a1b33 100%);
+  box-shadow:inset 0 0 0 2px rgba(255,255,255,.08),-10px -8px 30px -6px color-mix(in srgb,var(--glow1) 85%,#fff)}
+.ring.glass-ring{background:rgba(255,255,255,.04);box-shadow:inset 0 0 0 2px rgba(255,255,255,.75),0 0 30px rgba(255,255,255,.08)}
+
+/* report frame */
+.rp-head{position:absolute;left:58px;right:58px;top:24px;display:flex;justify-content:space-between;font-size:12px;color:#888;letter-spacing:-.02em}
+.rp-head b{color:#333;font-weight:800}
+.rp-rule{position:absolute;left:58px;right:58px;top:58px;height:1px;background:linear-gradient(90deg,var(--accent),var(--lav) 40%,rgba(123,120,255,0))}
+.rp-foot{position:absolute;left:58px;right:58px;bottom:26px;display:flex;justify-content:space-between;font:500 11px var(--en);color:#808080;letter-spacing:.04em}
+.dark .rp-head{color:#bbb}.dark .rp-head b{color:#fff}
+.dark .rp-rule{background:rgba(255,255,255,.25)}
+.dark .rp-foot{color:#ddd}
+.rp-card{border:1px solid var(--line);border-radius:4px;padding:18px;display:grid;grid-template-rows:auto auto 1fr;gap:12px;min-height:0}
+.rp-card p{align-self:end;font-size:13.5px;color:var(--ink-body);line-height:1.55}
+.meter{height:10px;background:var(--paper2);border-radius:5px}.meter>i{display:block;height:100%;border-radius:5px;background:var(--c,var(--accent))}
+.rp-conclusion{border:1.5px solid var(--accent);border-radius:4px;display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:800;color:var(--accent)}
+.kpi{border-radius:6px;background:var(--paper2);padding:14px 18px;display:flex;flex-direction:column;justify-content:center;gap:8px}
+.kpi b{font-weight:900;letter-spacing:-.05em;line-height:1}.kpi span{font-size:13px;color:var(--ink-body)}
+.bars{display:flex;align-items:flex-end;gap:16px;border-bottom:1px solid var(--line)}
+.bars>div{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;gap:6px;font-size:12px;color:var(--ink-body)}
+.bars>div>i{display:block;width:100%;background:#c9cad3;border-radius:3px 3px 0 0}.bars>div.on>i{background:var(--accent)}.bars>div.on{color:var(--ink);font-weight:800}
+.roadmap{display:grid;gap:10px}.roadmap>div{display:grid;grid-template-columns:86px 1fr;align-items:center;gap:12px;font-size:13.5px;color:var(--ink-body)}
+.roadmap>div>b{height:30px;display:flex;align-items:center;justify-content:center;border-radius:15px;font-size:12px;color:#fff;background:#5a5b60}.roadmap>div.on>b{background:var(--accent)}
+table.rp{border-collapse:collapse;width:100%;font-size:12.5px;letter-spacing:-.02em}
+table.rp th,table.rp td{border:0.75px solid var(--line);padding:0 8px;text-align:center}
+table.rp th{background:var(--paper2);font-weight:700;color:#333}
+.dark table.rp th,.dark table.rp td{border-color:#4a4a4a}
+.dark table.rp th{background:#3a3a3a;color:#fff}
+.dark table.rp td{color:#cfcfcf}
+</style>
+</head>
+<body class="viewer">
+<div class="deck">
+
+<!-- ═════ C01 표지 (사진 슬롯 우측, 좌측 제목 블록) ═════ -->
+<section class="slide" data-layout="C01">
+  <div class="photo mask-left" style="inset:0;--img:radial-gradient(ellipse 38% 60% at 74% 52%,#3d4a8a,#151a33 60%,#050608)"></div>
+  <div class="halo" style="left:700px;top:60px;width:600px;height:600px;opacity:.6"></div>
+  <div class="label" style="position:absolute;left:96px;top:236px;color:#cfcfd4">PROPOSAL 2026</div>
+  <div style="position:absolute;left:96px;top:266px;width:640px;font-size:54px;letter-spacing:var(--tight);line-height:1.18">
+    <span class="k-en">AI</span><span class="r">로 </span><span class="k">일하는 방식</span><span class="r">을</span><br><span class="k">바꾸다</span><i class="dot">.</i></div>
+  <div style="position:absolute;left:96px;top:420px;font-size:18px;color:var(--body)">사내 업무 자동화 도입 제안</div>
+  <div style="position:absolute;left:96px;top:560px;font-size:14px;color:#cfcfd4;line-height:1.6"><b style="color:#fff">발표자 이름</b> · 소속 팀<br>2026. 10. 18</div>
+</section>
+
+<!-- ═════ C03 목차 (현재 챕터만 흰색, 나머지 회색 — P26) ═════ -->
+<section class="slide bg-aurora-bottom" data-layout="C03">
+  <div style="position:absolute;left:96px;top:250px;width:380px">
+    <div class="label" style="color:#cfcfd4">CONTENTS</div>
+    <div style="margin-top:10px;font-size:48px;font-weight:800;letter-spacing:var(--tight);line-height:1.2">오늘<br>이야기할 것<i class="dot">.</i></div>
+  </div>
+  <div style="position:absolute;left:560px;top:170px;width:620px;display:grid;row-gap:26px">
+    <div style="display:grid;grid-template-columns:110px 1fr;align-items:baseline"><b class="en" style="font-size:52px;font-weight:900">01</b><div><div style="font-size:28px;font-weight:800">문제의 발견</div><div style="font-size:15px;color:var(--body)">반복 업무에 쓰는 시간</div></div></div>
+    <div data-dim style="display:grid;grid-template-columns:110px 1fr;align-items:baseline;color:#4a4b50"><b class="en" style="font-size:52px;font-weight:900">02</b><div><div style="font-size:28px;font-weight:800">원인 파악</div><div style="font-size:15px">왜 아직 바뀌지 않았나</div></div></div>
+    <div data-dim style="display:grid;grid-template-columns:110px 1fr;align-items:baseline;color:#4a4b50"><b class="en" style="font-size:52px;font-weight:900">03</b><div><div style="font-size:28px;font-weight:800">해결 방안</div><div style="font-size:15px">8주 파일럿 결과</div></div></div>
+    <div data-dim style="display:grid;grid-template-columns:110px 1fr;align-items:baseline;color:#4a4b50"><b class="en" style="font-size:52px;font-weight:900">04</b><div><div style="font-size:28px;font-weight:800">결론 및 요청</div><div style="font-size:15px">예산과 일정</div></div></div>
+  </div>
+</section>
+
+<!-- ═════ K01 섹션 구분 ═════ -->
+<section class="slide bg-nightsky" data-layout="K01">
+  <div style="position:absolute;left:0;right:0;top:300px;text-align:center">
+    <div class="label">PRINCIPLE 07</div>
+    <div style="margin-top:6px;font-size:40px;font-weight:400;letter-spacing:var(--tight)"><span class="k">사람의 시선</span>을 이해하는 <span class="k en" style="font-weight:800">PPT</span></div>
+  </div>
+</section>
+
+<!-- ═════ K02 스테이트먼트 ═════ -->
+<section class="slide bg-aurora-top" data-layout="K02">
+  <div style="position:absolute;left:0;right:0;top:318px;text-align:center;font-size:58px;letter-spacing:var(--tight);line-height:1.2">
+    <span class="k">위화감</span><span class="r">을 미리 느끼면</span><i class="dot">.</i>
+  </div>
+  <div class="note">한 장 · 한 문장 · 키워드만 굵게 · 마침표만 컬러</div>
+</section>
+
+<!-- ═════ K03 원칙 + 글래스 카드(못 박기) ═════ -->
+<section class="slide bg-nebula" data-layout="K03">
+  <div style="position:absolute;left:140px;top:226px;width:560px">
+    <div class="t-big">남과 다른<br>단어의 힘<i class="dot">.</i></div>
+    <p class="t-body" style="margin-top:22px;font-size:19px">같은 뜻이라도 <b style="color:#fff">마음을 움직이는 단어</b>가 있다.<br>본질은 건드리지 않고 <b style="color:#fff">표현만 교체</b>한다.</p>
+  </div>
+  <div class="glass" style="left:720px;top:212px;width:420px;height:296px">
+    <div class="nails n-plus"><i>+</i><i>+</i><i>+</i><i>+</i></div>
+    <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;text-align:center">
+      <div style="font-size:22px;font-weight:700;color:#7d7f86;letter-spacing:var(--tight)">다양성을 추구하는 것은<br>중요합니다</div>
+      <div style="font-size:15px;font-weight:700;color:#fff">본질은 <span style="font-size:22px">↓</span> 그대로</div>
+      <div style="font-size:24px;font-weight:800;color:var(--mint);letter-spacing:var(--tight);line-height:1.3">서로 다른 각도의 선들이 모여야<br>입체적인 모양이 만들어진다</div>
+    </div>
+  </div>
+  <div class="planet-rim" style="left:-40px;top:500px;width:340px;height:340px;opacity:.85"></div>
+</section>
+
+<!-- ═════ K04 워드 스택 순차 공개 (3장 복제해 active만 이동) ═════ -->
+<section class="slide bg-aurora-bottom" data-layout="K04">
+  <div style="position:absolute;left:96px;top:230px;width:540px">
+    <div style="font-size:50px;letter-spacing:var(--tight);line-height:1.18"><span class="k">보고서</span><span class="r">가</span><br><span class="k">읽히지</span> <span class="r">않는</span> <span class="k">이유</span></div>
+    <p class="t-body" style="margin-top:26px;font-size:20px">결정권자는 장표 한 장에 평균 <b style="color:#fff">40초</b>만 씁니다.<br>첫 문장에서 결론을 못 찾으면 넘깁니다.</p>
+  </div>
+  <div class="en" style="position:absolute;left:700px;top:180px;font-weight:900;font-size:118px;line-height:1.02;letter-spacing:-.01em">
+    <div style="color:#fff">FORTY</div><div data-dim style="color:#333">NINETY</div><div data-dim style="color:#333">ZERO</div>
+  </div>
+</section>
+
+<!-- ═════ K05 오브 센터 ═════ -->
+<section class="slide bg-aurora-top" data-layout="K05">
+  <div style="position:absolute;left:0;right:0;top:120px;text-align:center;font-size:40px;letter-spacing:var(--tight)"><span class="k">고객 만족도</span> <span class="r">조사 결과</span></div>
+  <div class="orb" style="left:530px;top:250px;width:220px;height:220px"></div>
+  <div class="on-orb" style="position:absolute;left:0;right:0;top:318px;text-align:center;font-size:22px;font-weight:700;line-height:1.5;letter-spacing:var(--tight-body)">
+    총 <span class="c-accent">3,893명</span>에게 물었습니다.<br>가장 많은 호평은 <span class="c-accent">‘맛’</span>, 다음은 <span class="c-accent">‘가격’</span>이었습니다.
+  </div>
+</section>
+
+<!-- ═════ K06 숫자 히어로 (flex: 숫자가 길어져도 근거가 밀려날 뿐 겹치지 않음) ═════ -->
+<section class="slide bg-aurora-top" data-layout="K06">
+  <div style="position:absolute;left:0;right:0;top:120px;text-align:center;font-size:40px;letter-spacing:var(--tight)"><span class="k">맛 만족도</span></div>
+  <div style="position:absolute;left:60px;right:60px;top:220px;height:280px;display:flex;align-items:center;justify-content:center">
+    <div style="position:relative;isolation:isolate;flex:none">
+      <div class="orb" style="right:-150px;top:50%;width:230px;height:230px;transform:translateY(-50%);z-index:-1"></div>
+      <div class="t-hero" style="font-size:200px">4.6</div>
+    </div>
+    <div class="on-orb" style="position:relative;z-index:1;flex:none;margin-left:150px;font-size:20px;font-weight:700;line-height:1.5">★★★★★<br>총 3,893명 대상 설문<br><span style="color:var(--body);font-weight:400">가격 만족도 4.3점</span></div>
+  </div>
+  <div class="note">※ 예시(샘플) 수치</div>
+</section>
+
+<!-- ═════ K07 사진 + 좌측 텍스트 (--img로 사진 교체) ═════ -->
+<section class="slide" data-layout="K07">
+  <div class="photo mask-left" style="inset:0;--img:radial-gradient(ellipse 40% 70% at 72% 55%,#5b6aa8,#1d2340 60%,#07080d)"></div>
+  <div style="position:absolute;left:78px;top:250px;width:520px">
+    <div style="font-size:46px;letter-spacing:var(--tight);line-height:1.2"><span class="k">15년</span><span class="r">을 내다본</span><br><span class="k">파트너십</span><i class="dot">.</i></div>
+    <p class="t-body" style="margin-top:20px;font-size:17px">무명에 가까웠던 선수를 2004년부터 후원했다.<br>근거는 감이 아니라 경기 데이터였다.</p>
+  </div>
+</section>
+
+<!-- ═════ K08 후광 오브젝트 ═════ -->
+<section class="slide" data-layout="K08">
+  <div class="halo" style="left:640px;top:-40px;width:720px;height:720px"></div>
+  <div class="photo" style="left:820px;top:150px;width:300px;height:420px;border-radius:150px 150px 20px 20px;--img:linear-gradient(160deg,#cfd3e6,#6f75a3 60%,#2a2d4d)"></div>
+  <div style="position:absolute;left:96px;top:270px;width:560px">
+    <div style="font-size:48px;letter-spacing:var(--tight);line-height:1.2"><span class="k">후광</span><span class="r">이 만드는</span><br><span class="k">고급감</span><i class="dot">.</i></div>
+    <p class="t-body" style="margin-top:20px;font-size:18px">누끼 딴 오브젝트 뒤에 퍼플·블루 글로우 하나.</p>
+  </div>
+</section>
+
+<!-- ═════ K09 매니페스토 워드 (4–8장 연속) ═════ -->
+<section class="slide bg-aurora-top" data-layout="K09">
+  <div style="position:absolute;left:0;right:0;top:312px;text-align:center;font-size:68px;letter-spacing:var(--tight)">
+    <span class="k">기획서</span><span class="l">가 되고</span><i class="dot">.</i>
+  </div>
+</section>
+
+<!-- ═════ K10 흐름 원 ═════ -->
+<section class="slide bg-aurora-top" data-layout="K10">
+  <div style="position:absolute;left:0;right:0;top:150px;text-align:center;font-size:40px;letter-spacing:var(--tight)">
+    <span class="k" style="color:#c9579f">설득형 기획서</span><span class="r">의</span> <span class="k">기본구조</span>
+  </div>
+  <div style="position:absolute;left:0;right:0;top:220px;text-align:center;font-size:18px;color:var(--body)">논리 전개에 감정선을 더한 네 단계</div>
+  <div class="ring" style="left:178px;top:318px;width:140px;height:140px">문제를<br>발견한다</div>
+  <div class="ring" style="left:438px;top:318px;width:140px;height:140px">문제의<br>원인파악</div>
+  <div class="ring" style="left:698px;top:318px;width:140px;height:140px">문제를<br>해결한다</div>
+  <div class="ring" style="left:958px;top:318px;width:140px;height:140px">결론 및<br>기타내용</div>
+  <div style="position:absolute;left:322px;top:387px;width:112px;height:2px;background:linear-gradient(90deg,#666,#fff)"></div>
+  <div style="position:absolute;left:582px;top:387px;width:112px;height:2px;background:linear-gradient(90deg,#666,#fff)"></div>
+  <div style="position:absolute;left:842px;top:387px;width:112px;height:2px;background:linear-gradient(90deg,#666,#fff)"></div>
+  <div style="position:absolute;left:178px;top:486px;width:920px;display:grid;grid-template-columns:repeat(4,140px);justify-content:space-between;text-align:center;font-size:15px;font-weight:700">
+    <span>+ 위기감</span><span>+ 납득</span><span>+ 결단</span><span>+ 확신·사명감</span></div>
+</section>
+
+<!-- ═════ K11 선 연결 ═════ -->
+<section class="slide" data-layout="K11">
+  <div style="position:absolute;left:150px;top:290px;width:340px;text-align:center">
+    <div style="font-size:48px;font-weight:800;letter-spacing:var(--tight)">관습</div>
+    <div style="margin-top:10px;font-size:17px;font-weight:700;line-height:1.45">공부는 정해진 시간에만<br>한다는 <span class="c-accent">관습</span>을</div>
+  </div>
+  <div style="position:absolute;left:470px;top:322px;width:340px;height:2px;background:linear-gradient(90deg,rgba(255,255,255,0),#fff 50%,rgba(255,255,255,0))"></div>
+  <div style="position:absolute;left:790px;top:290px;width:340px;text-align:center">
+    <div style="font-size:48px;font-weight:800;letter-spacing:var(--tight)">파괴 <span style="font-size:40px">🤯</span></div>
+    <div style="margin-top:10px;font-size:17px;font-weight:700;line-height:1.45">틈새 시간에도 할 수 있도록<br><span class="c-accent">파괴</span>해야 합니다</div>
+  </div>
+</section>
+
+<!-- ═════ K12 흑백 인용 ═════ -->
+<section class="slide" data-layout="K12">
+  <div class="photo gray" style="right:0;top:0;width:620px;height:720px;--img:radial-gradient(ellipse 45% 55% at 55% 45%,#9a9a9a,#3c3c3c 55%,#000 85%)"></div>
+  <div style="position:absolute;right:0;top:0;width:620px;height:720px;background:linear-gradient(90deg,#000 0%,rgba(0,0,0,0) 45%)"></div>
+  <div style="position:absolute;left:110px;top:270px;width:640px">
+    <div style="font-size:30px;font-weight:400;letter-spacing:var(--tight);line-height:1.4">“사람들은 늘 <b class="k">평균 이상</b>으로<br>보이고 싶어서 <b class="k">거짓말을 한다</b>”</div>
+    <div style="margin-top:16px;font-size:13px;color:#aaa">— 인물명 (직함)</div>
+  </div>
+</section>
+
+<!-- ═════ K13 럭셔리 ═════ -->
+<section class="slide bg-aurora-bottom" data-layout="K13">
+  <div class="photo gray" style="right:120px;top:40px;width:380px;height:680px;border-radius:190px 190px 0 0;--img:linear-gradient(180deg,#bdbdbd,#5a5a5a 60%,#1a1a1a)"></div>
+  <div style="position:absolute;left:0;right:0;top:220px;text-align:center">
+    <div style="font-size:104px;font-weight:100;letter-spacing:-.04em;line-height:1.05;color:#f2f2f2">라이트웨이트<br>컬렉션</div>
+    <div class="en" style="margin-top:14px;font-size:20px;font-weight:500;letter-spacing:.42em;color:#ddd">2 0 2 6 &nbsp; S E O U L</div>
+  </div>
+</section>
+
+<!-- ═════ K14 세로 타임라인 ═════ -->
+<section class="slide bg-dark-report" data-layout="K14">
+  <div style="position:absolute;left:150px;top:300px;width:320px;text-align:center">
+    <div style="font-size:36px;font-weight:800;letter-spacing:var(--tight);line-height:1.25">우리가<br>걸어온 길<i class="dot">.</i></div>
+    <div style="margin-top:10px;font-size:13px;color:#aaa">성장기 2003–2026</div>
+  </div>
+  <div style="position:absolute;left:560px;top:70px;width:1px;height:580px;background:linear-gradient(180deg,rgba(255,255,255,0),#fff 15%,#fff 85%,rgba(255,255,255,0))"></div>
+  <div style="position:absolute;left:556px;top:150px;display:grid;row-gap:42px;font-size:16px">
+    <div style="display:flex;gap:26px;align-items:center"><span style="width:9px;height:9px;border-radius:50%;background:#fff"></span><b class="en" style="width:60px">2003</b><span>법인 설립 · 첫 양산 라인 가동</span></div>
+    <div style="display:flex;gap:26px;align-items:center"><span style="width:9px;height:9px;border-radius:50%;background:#fff"></span><b class="en" style="width:60px">2010</b><span>해외 현지법인 설립</span></div>
+    <div style="display:flex;gap:26px;align-items:center"><span style="width:9px;height:9px;border-radius:50%;background:var(--accent)"></span><b class="en c-accent" style="width:60px">2016</b><span class="c-accent" style="font-weight:700">핵심 소재 국산화 성공</span></div>
+    <div style="display:flex;gap:26px;align-items:center"><span style="width:9px;height:9px;border-radius:50%;background:#fff"></span><b class="en" style="width:60px">2021</b><span>글로벌 300 기업 선정</span></div>
+    <div style="display:flex;gap:26px;align-items:center"><span style="width:9px;height:9px;border-radius:50%;background:var(--accent)"></span><b class="en c-accent" style="width:60px">2026</b><span class="c-accent" style="font-weight:700">국내 최초 전용 공장 완공</span></div>
+  </div>
+</section>
+
+<!-- ═════ K15 빅·미디엄·스몰 ═════ -->
+<section class="slide" data-layout="K15">
+  <div style="position:absolute;left:96px;top:110px;font-size:32px;font-weight:700;letter-spacing:var(--tight)">우선순위는 <span class="k">크기</span>로 말한다<i class="dot">.</i></div>
+  <div class="ring glass-ring en" style="left:330px;top:200px;width:300px;height:300px;font-size:44px">A</div>
+  <div class="ring glass-ring en" style="left:680px;top:190px;width:170px;height:170px;font-size:30px">B</div>
+  <div class="ring glass-ring en" style="left:650px;top:400px;width:110px;height:110px;font-size:22px">C</div>
+  <div style="position:absolute;left:900px;top:250px;width:300px;font-size:16px;color:var(--body);line-height:1.7">
+    <b style="color:#fff">A</b> 핵심 사업 — 매출 62%<br><b style="color:#fff">B</b> 성장 사업 — 매출 27%<br><b style="color:#fff">C</b> 실험 사업 — 매출 11%</div>
+</section>
+
+<!-- ═════ K16 간지(인터루드) ═════ -->
+<section class="slide bg-night" data-layout="K16">
+  <div style="position:absolute;left:70px;top:60px;font-size:26px;font-weight:800;letter-spacing:var(--tight);line-height:1.35">습관이 된 노력을<br>실력이라 부른다<i class="dot" style="color:#e02020">.</i></div>
+  <div style="position:absolute;right:70px;top:62px;text-align:right">
+    <div style="font-size:20px;font-weight:800">02 – 시장현황 및 전망</div>
+    <div style="margin-top:8px;font-size:13px;color:#9aa;line-height:1.6">세계 시장 현황 및 전망<br>국내 시장 현황 및 전망</div>
+  </div>
+  <div style="position:absolute;left:70px;bottom:52px;font-size:13px;color:#ccc;line-height:1.5;z-index:1">출처 표기,<br>「인용 문구 출처」</div>
+  <div style="position:absolute;right:70px;bottom:52px;font-size:12px;color:#ccc;z-index:1">OOOO에너지</div>
+</section>
+
+<!-- ═════ K17 포지셔닝 맵 ═════ -->
+<section class="slide bg-holo" data-layout="K17">
+  <div style="position:absolute;left:40px;top:28px;font:800 18px var(--en);letter-spacing:-.02em">Brand</div>
+  <div style="position:absolute;right:40px;top:30px;font-size:12px;font-weight:700">능력치 구분</div>
+  <div style="position:absolute;left:640px;top:90px;width:1.5px;height:560px;background:#1d1d1f"></div>
+  <div style="position:absolute;left:150px;top:370px;width:980px;height:1.5px;background:#1d1d1f"></div>
+  <div style="position:absolute;left:0;right:0;top:68px;text-align:center;font-size:11px;font-weight:700">하고 싶은 일</div>
+  <div style="position:absolute;left:0;right:0;top:656px;text-align:center;font-size:11px;font-weight:700">해야 하는 일</div>
+  <div style="position:absolute;left:84px;top:362px;font-size:11px;font-weight:700">잘하는 일</div>
+  <div style="position:absolute;right:70px;top:362px;font-size:11px;font-weight:700">못하는 일</div>
+  <div style="position:absolute;left:250px;top:150px;width:360px;display:flex;flex-wrap:wrap;gap:14px 26px;font-weight:800;font-size:17px;letter-spacing:-.04em"><span>헬스케어</span><span>인문학 출간</span><span style="color:#d10f2f">해외채널 개설</span><span style="font-size:14px">인테리어</span><span>투자</span></div>
+  <div style="position:absolute;left:690px;top:150px;width:380px;display:flex;flex-wrap:wrap;gap:14px 26px;font-weight:800;font-size:17px;letter-spacing:-.04em"><span>기획 제안서</span><span style="font-size:24px">PPT</span><span style="color:#d10f2f">유튜브</span><span>강의</span><span style="font-size:14px">글쓰기</span><span style="color:#d10f2f">일본어</span></div>
+  <div style="position:absolute;left:250px;top:420px;width:360px;display:flex;flex-wrap:wrap;gap:14px 26px;font-weight:800;font-size:17px;letter-spacing:-.04em"><span>커머스</span><span>포토샵</span><span style="font-size:14px">일러스트</span><span>엑셀</span></div>
+  <div style="position:absolute;left:690px;top:420px;width:380px;display:flex;flex-wrap:wrap;gap:14px 26px;font-weight:800;font-size:17px;letter-spacing:-.04em"><span>경리</span><span>광고업무</span><span style="font-size:14px">전화통화</span><span>영업</span><span>경영</span></div>
+</section>
+
+<!-- ═════ R01 라이트 리포트 ═════ -->
+<section class="slide paper" data-layout="R01">
+  <div class="rp-head"><span>2026년 <b>신규 서비스</b> 런칭 제안서</span><span><b>I. 시장 이해</b> · 1. 고객 문제 정의</span></div>
+  <div class="rp-rule"></div>
+  <div style="position:absolute;left:58px;top:96px;width:300px">
+    <div style="font-size:33px;font-weight:500;letter-spacing:var(--tight);line-height:1.24"><b class="k">고객</b>이 떠나는<br><b class="k">세 가지</b> 이유를<br><b class="k">숫자</b>로 확인했습니다<i class="dot">.</i></div>
+    <p style="margin-top:20px;font-size:14px;color:var(--ink-body);line-height:1.55"><b style="color:var(--ink)">이탈 고객 1,240명</b> 설문과<br>FGI 3회로 원인을 좁혔습니다.</p>
+  </div>
+  <div class="cube-white" style="left:96px;top:520px"></div>
+  <div style="position:absolute;left:400px;right:58px;top:96px;text-align:center;font-size:24px;letter-spacing:var(--tight)"><b class="k c-accent">이탈 원인</b> 상위 3개와 <b class="k">개선 우선순위</b></div>
+  <div style="position:absolute;left:400px;right:58px;top:150px;display:grid;grid-template-columns:repeat(3,1fr);gap:18px">
+    <span class="tag" style="--c:var(--accent)">가격 부담</span><span class="tag" style="--c:var(--accent2)">배송 지연</span><span class="tag gray">상담 연결</span>
+  </div>
+  <div style="position:absolute;left:400px;right:58px;top:200px;height:270px;display:grid;grid-template-columns:repeat(3,1fr);gap:18px">
+    <div class="rp-card"><div class="t-hero c-accent" style="font-size:64px">46<span style="font-size:30px">%</span></div><div><div style="font-size:11px;color:#8a8a8a;margin-bottom:6px">응답 비중</div><div class="meter"><i style="width:46%;--c:var(--accent)"></i></div></div><p>경쟁사 대비 월 구독료가 <b style="color:var(--ink)">1.8배</b>.<br>해지 사유 1위.</p></div>
+    <div class="rp-card"><div class="t-hero c-accent2" style="font-size:64px">31<span style="font-size:30px">%</span></div><div><div style="font-size:11px;color:#8a8a8a;margin-bottom:6px">응답 비중</div><div class="meter"><i style="width:31%;--c:var(--accent2)"></i></div></div><p>평균 배송 <b style="color:var(--ink)">3.4일</b>. 약속(2일) 대비 1.4일 지연.</p></div>
+    <div class="rp-card"><div class="t-hero" style="font-size:64px;color:#5a5b60">23<span style="font-size:30px">%</span></div><div><div style="font-size:11px;color:#8a8a8a;margin-bottom:6px">응답 비중</div><div class="meter"><i style="width:23%;--c:#5a5b60"></i></div></div><p>상담 연결까지 <b style="color:var(--ink)">11분</b>. 업계 평균의 2배.</p></div>
+  </div>
+  <div style="position:absolute;left:400px;right:58px;top:490px;height:120px">
+    <table class="rp" style="height:100%"><tr><th>구분</th><th>현재</th><th>목표(6개월)</th><th>개선 수단</th></tr>
+      <tr><td>월 해지율</td><td>7.2%</td><td><b class="c-accent">4.0%</b></td><td>연간 요금제 신설</td></tr>
+      <tr><td>평균 배송일</td><td>3.4일</td><td><b class="c-accent">2.0일</b></td><td>권역 풀필먼트 2곳</td></tr></table>
+  </div>
+  <div class="rp-conclusion" style="position:absolute;left:400px;right:58px;top:626px;height:38px">가격부터 손보면 이탈의 절반을 막을 수 있습니다</div>
+  <div class="rp-foot" style="bottom:14px"><span>COMPANY NAME</span><span>10</span></div>
+</section>
+
+<!-- ═════ R02 다크 리포트 ═════ -->
+<section class="slide bg-dark-report dark" data-layout="R02">
+  <div class="rp-head"><span>A. 기획서의 법칙</span><span>4. 문제의 본질을 파악하는 다섯 가지 방법</span></div>
+  <div class="rp-rule"></div>
+  <div style="position:absolute;left:0;right:0;top:150px;height:440px;background:#1f1f1f"></div>
+  <div style="position:absolute;left:58px;top:96px;width:300px">
+    <div style="font-size:40px;font-weight:800;letter-spacing:var(--tight);line-height:1.22">문제의 본질을<br>발견하는<br>다섯 가지 방법<i class="dot">.</i></div>
+    <p style="margin-top:18px;font-size:14px;color:#ddd;line-height:1.55">가설을 세우는 힘과<br>부수는 힘이 함께 필요합니다.</p>
+  </div>
+  <div class="sphere-black" style="left:110px;top:440px;width:130px;height:130px"></div>
+  <div style="position:absolute;left:400px;right:58px;top:96px;text-align:center;font-size:24px;font-weight:700;letter-spacing:var(--tight)">‘가설을 세우는 힘’과 ‘가설을 부수는 힘’</div>
+  <div style="position:absolute;left:400px;right:58px;top:150px;height:380px;display:grid;grid-template-columns:repeat(5,1fr);gap:14px">
+    <div style="display:grid;grid-template-rows:30px 1fr;gap:10px"><span class="tag gray">제한없는 가설</span><div class="photo gray" style="position:relative;border:1px solid #555;--img:linear-gradient(160deg,#666,#222)"><span style="position:absolute;left:0;right:0;bottom:16px;text-align:center;font-size:13px;font-weight:700">모든 가설을<br>제한 없이 수집</span></div></div>
+    <div style="display:grid;grid-template-rows:30px 1fr;gap:10px"><span class="tag">의심</span><div class="photo gray" style="position:relative;border:1px solid #555;--img:linear-gradient(160deg,#777,#222)"><span style="position:absolute;left:0;right:0;bottom:16px;text-align:center;font-size:13px;font-weight:700">클라이언트 가설을<br>특히 의심</span></div></div>
+    <div style="display:grid;grid-template-rows:30px 1fr;gap:10px"><span class="tag gray">관습 파괴</span><div class="photo gray" style="position:relative;border:1px solid #555;--img:linear-gradient(160deg,#5d5d5d,#1c1c1c)"><span style="position:absolute;left:0;right:0;bottom:16px;text-align:center;font-size:13px;font-weight:700">업계 상식을<br>깨면 풀린다</span></div></div>
+    <div style="display:grid;grid-template-rows:30px 1fr;gap:10px"><span class="tag gray">안티 오피니언</span><div class="photo gray" style="position:relative;border:1px solid #555;--img:linear-gradient(160deg,#6a6a6a,#202020)"><span style="position:absolute;left:0;right:0;bottom:16px;text-align:center;font-size:13px;font-weight:700">반대 의견을<br>꼼꼼히 청취</span></div></div>
+    <div style="display:grid;grid-template-rows:30px 1fr;gap:10px"><span class="tag gray">트레이드온</span><div class="photo gray" style="position:relative;border:1px solid #555;--img:linear-gradient(160deg,#595959,#181818)"><span style="position:absolute;left:0;right:0;bottom:16px;text-align:center;font-size:13px;font-weight:700">양자택일 관념을<br>부순다</span></div></div>
+  </div>
+  <p style="position:absolute;left:400px;right:58px;top:548px;font-size:13.5px;color:#cfcfcf;line-height:1.6">처음 세운 가설이 이 과정을 거치며 크게 뒤틀리는 것은 좋은 징조입니다. 첫 가설이 그대로 맞는 경우가 오히려 이상합니다. 가설을 세우고 부수는 반복이 본질에 가까워지는 과정입니다. <b style="color:#fff">다섯 단계를 거친 가설만 다음 장의 솔루션 후보로 올립니다.</b></p>
+  <div class="rp-foot"><span>COMPANY NAME</span><span>15</span></div>
+</section>
+
+<!-- ═════ R03 다크 데이터 매트릭스 ═════ -->
+<section class="slide bg-dark-report dark" data-layout="R03">
+  <div class="rp-head"><span>A. 기획서의 법칙</span><span>6-1. PEST 분석</span></div>
+  <div class="rp-rule"></div>
+  <div style="position:absolute;left:0;right:0;top:150px;height:440px;background:#1f1f1f"></div>
+  <div style="position:absolute;left:58px;top:96px;width:300px">
+    <div style="font-size:40px;font-weight:800;letter-spacing:var(--tight);line-height:1.22">나에게 꼭 맞는<br>분석 방법을<br>정하고 분석<i class="dot">.</i></div>
+    <p style="margin-top:18px;font-size:14px;color:#ddd;line-height:1.55">외부 환경 네 축을 체크리스트로<br>빠짐없이 점검합니다.</p>
+  </div>
+  <div class="sphere-black" style="left:110px;top:440px;width:130px;height:130px"></div>
+  <div style="position:absolute;left:400px;right:58px;top:96px;text-align:center;font-size:24px;font-weight:700;letter-spacing:var(--tight)">Politics · Economics · Sociocultural · Technology</div>
+  <div style="position:absolute;left:400px;right:58px;top:150px;height:440px">
+    <table class="rp" style="height:100%;font-size:14px">
+      <tr style="height:44px"><th style="width:110px"></th><th>분석 질문</th><th>체크리스트</th></tr>
+      <tr><td><b style="color:#fff">정치</b><br><span class="en" style="font-size:11px;color:#9a9a9a">Politics</span></td><td>법·규제가 우리 사업에 어떤 영향을 주는가?</td><td>법률, 규칙, 정부 기조</td></tr>
+      <tr><td><b style="color:#fff">경제</b><br><span class="en" style="font-size:11px;color:#9a9a9a">Economics</span></td><td>단·중·장기 경기 흐름이 수요를 어떻게 바꾸는가?</td><td>경기, 환율, 금리, 물가</td></tr>
+      <tr><td><b style="color:#fff">사회</b><br><span class="en" style="font-size:11px;color:#9a9a9a">Sociocultural</span></td><td>인구·문화 변화가 고객을 어떻게 바꾸는가?</td><td>여론, 라이프스타일, 연령구성</td></tr>
+      <tr><td><b style="color:#fff">기술</b><br><span class="en" style="font-size:11px;color:#9a9a9a">Technology</span></td><td>기술·산업 변화가 경쟁 구도를 어떻게 바꾸는가?</td><td>기술혁신, <b class="c-accent">AI</b>, 특허, 산업 트렌드</td></tr>
+    </table>
+  </div>
+  <div class="rp-foot"><span>COMPANY NAME</span><span>17</span></div>
+</section>
+
+<!-- ═════ R04 보고형 KPI + 막대차트 + 로드맵 ═════ -->
+<section class="slide paper" data-layout="R04">
+  <div class="rp-head"><span>2026년 <b>AI 업무 자동화</b> 도입 제안서</span><span><b>III. 해결 방안</b> · 2. 투자와 회수</span></div>
+  <div class="rp-rule"></div>
+  <div style="position:absolute;left:58px;top:96px;width:300px">
+    <div style="font-size:33px;font-weight:500;letter-spacing:var(--tight);line-height:1.24"><b class="k">4.2억</b>을 넣으면<br><b class="k">2년 안에</b><br><b class="k">2.8배</b>로 돌아옵니다<i class="dot">.</i></div>
+    <p style="margin-top:20px;font-size:14px;color:var(--ink-body);line-height:1.55">8주 파일럿 3개 팀의<br>실측 절감 시간을 기준으로 추정했습니다.</p>
+  </div>
+  <div class="cube-white" style="left:96px;top:520px"></div>
+  <div style="position:absolute;left:400px;right:58px;top:96px;height:96px;display:grid;grid-template-columns:repeat(3,1fr);gap:18px">
+    <div class="kpi"><b class="c-accent" style="font-size:42px">−41%</b><span>반복 업무 시간(파일럿)</span></div>
+    <div class="kpi"><b style="font-size:42px">4.2억</b><span>2년 총 투자</span></div>
+    <div class="kpi"><b style="font-size:42px">11.8억</b><span>2년 누적 회수(추정)</span></div>
+  </div>
+  <div style="position:absolute;left:400px;width:420px;top:214px;font-size:15px;font-weight:800">분기별 누적 회수액 <span style="font-weight:400;color:var(--ink-body)">(억 원)</span></div>
+  <div class="bars" style="position:absolute;left:400px;width:420px;top:246px;height:356px">
+    <div><b>0.6</b><i style="height:6%"></i>1Q</div><div><b>1.9</b><i style="height:18%"></i>2Q</div>
+    <div><b>3.8</b><i style="height:36%"></i>3Q</div><div><b>6.1</b><i style="height:57%"></i>4Q</div>
+    <div><b>8.7</b><i style="height:80%"></i>5Q</div><div class="on"><b>11.8</b><i style="height:100%"></i>6Q</div>
+  </div>
+  <div style="position:absolute;left:850px;right:58px;top:214px;font-size:15px;font-weight:800">도입 로드맵</div>
+  <div class="roadmap" style="position:absolute;left:850px;right:58px;top:246px;height:356px;grid-template-rows:repeat(4,1fr)">
+    <div class="on"><b>1–2월</b><span>전사 계정·보안 정책 확정</span></div>
+    <div><b>3–4월</b><span>5개 부서 확대, 사내 교육 12회</span></div>
+    <div><b>5–8월</b><span>업무별 프롬프트 라이브러리 구축</span></div>
+    <div><b>9월~</b><span>성과 측정 후 전사 확산</span></div>
+  </div>
+  <div class="rp-conclusion" style="position:absolute;left:400px;right:58px;top:622px;height:38px">6분기째 투자 대비 2.8배 — 1–2월 착수를 요청드립니다</div>
+  <div class="rp-foot" style="bottom:14px"><span>COMPANY NAME · 예시(샘플) 수치</span><span>12</span></div>
+</section>
+
+<!-- ═════ C02 엔딩 / 요청 ═════ -->
+<section class="slide bg-nightsky" data-layout="C02">
+  <div style="position:absolute;left:0;right:0;top:250px;text-align:center">
+    <div style="font-size:48px;letter-spacing:var(--tight);line-height:1.2"><span class="r">끝이 아니라, </span><span class="k">시작</span><i class="dot">.</i></div>
+    <div style="margin-top:18px;font-size:18px;color:#e6e6ee"><b>1월 착수 승인</b>을 요청드립니다 · contact@company.com</div>
+  </div>
+</section>
+
+</div>
+<script>
+(function(){
+  var q=new URLSearchParams(location.search), slides=[].slice.call(document.querySelectorAll('.slide'));
+  if(q.get('all')){document.body.className='all';return;}
+  var i=Math.max(0,Math.min(slides.length-1,(parseInt(q.get('s')||'1',10)||1)-1));
+  function fit(){var s=Math.min(innerWidth/1280,innerHeight/720);slides.forEach(function(el){el.style.transform='translate(-50%,-50%) scale('+s+')';});}
+  function show(n){i=(n+slides.length)%slides.length;slides.forEach(function(el,k){el.classList.toggle('on',k===i);});}
+  addEventListener('keydown',function(e){
+    if(['ArrowRight','PageDown',' ','Enter'].indexOf(e.key)>-1){show(i+1);e.preventDefault();}
+    if(['ArrowLeft','PageUp','Backspace'].indexOf(e.key)>-1){show(i-1);e.preventDefault();}
+    if(e.key==='f'){document.documentElement.requestFullscreen&&document.documentElement.requestFullscreen();}
+  });
+  addEventListener('click',function(e){show(e.clientX>innerWidth/2?i+1:i-1);});
+  addEventListener('resize',fit);fit();show(i);
+})();
+</script>
+</body>
+</html>

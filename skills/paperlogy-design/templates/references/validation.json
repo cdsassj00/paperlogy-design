@@ -1,0 +1,1212 @@
+{
+  "renderer": "LibreOffice 26.2.4.2",
+  "checks": [
+    {
+      "file": "C:\\Users\\value\\Desktop\\deck-replica-portable-v03\\deck-replica\\assets\\cover-divider.pptx",
+      "bytes": 38300499,
+      "slides": 39,
+      "text_runs": 231,
+      "native_shapes": 103,
+      "pictures": 63,
+      "media_binaries": [],
+      "errors": [],
+      "source_object_text_checks": [
+        {
+          "original_page": 25,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 44,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 50,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 55,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 106,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 125,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 127,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 137,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 142,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 146,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 152,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 173,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 204,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 217,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 218,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 251,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 258,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 259,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 267,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 302,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 313,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 314,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 329,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 344,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 353,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 356,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 365,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 378,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 442,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 483,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 510,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 529,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 551,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 554,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 558,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 574,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 577,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 593,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 604,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        }
+      ],
+      "render_pages": 39,
+      "render_text_chars": 1539
+    },
+    {
+      "file": "C:\\Users\\value\\Desktop\\deck-replica-portable-v03\\deck-replica\\assets\\white-report.pptx",
+      "bytes": 52434759,
+      "slides": 26,
+      "text_runs": 938,
+      "native_shapes": 229,
+      "pictures": 52,
+      "media_binaries": [],
+      "errors": [],
+      "source_object_text_checks": [
+        {
+          "original_page": 9,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 10,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 11,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 12,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 13,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 126,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 144,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 145,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 150,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 176,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 231,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 232,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 247,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 249,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 250,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 321,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 424,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 427,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 494,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 502,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 511,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 512,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 549,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 552,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 598,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 599,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        }
+      ],
+      "render_pages": 26,
+      "render_text_chars": 8207
+    },
+    {
+      "file": "C:\\Users\\value\\Desktop\\deck-replica-portable-v03\\deck-replica\\assets\\dark-report-diagram.pptx",
+      "bytes": 56766590,
+      "slides": 63,
+      "text_runs": 2062,
+      "native_shapes": 838,
+      "pictures": 110,
+      "media_binaries": [],
+      "errors": [],
+      "source_object_text_checks": [
+        {
+          "original_page": 8,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 14,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 15,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 16,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 17,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 18,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 19,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 20,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 21,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 23,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 45,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 51,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 59,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 60,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 61,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 63,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 71,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 72,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 76,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 80,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 83,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 84,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 85,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 98,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 99,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 107,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 140,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 148,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 170,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 203,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 228,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 253,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 254,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 255,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 263,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 270,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 272,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 293,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 307,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 310,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 311,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 320,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 334,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 398,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 401,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 403,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 420,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 439,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 447,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 462,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 479,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 497,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 533,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 534,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 539,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 540,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 555,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 556,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 576,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 578,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 588,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 591,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 594,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        }
+      ],
+      "render_pages": 63,
+      "render_text_chars": 12317
+    },
+    {
+      "file": "C:\\Users\\value\\Desktop\\deck-replica-portable-v03\\deck-replica\\assets\\photo-story-mockup.pptx",
+      "bytes": 88945955,
+      "slides": 54,
+      "text_runs": 606,
+      "native_shapes": 223,
+      "pictures": 122,
+      "media_binaries": [],
+      "errors": [],
+      "source_object_text_checks": [
+        {
+          "original_page": 6,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 27,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 28,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 30,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 31,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 34,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 35,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 38,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 40,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 41,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 54,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 57,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 69,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 81,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 87,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 89,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 90,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 110,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 111,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 139,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 153,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 158,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 186,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 202,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 207,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 209,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 210,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 212,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 224,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 244,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 300,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 317,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 337,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 370,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 392,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 394,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 407,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 413,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 438,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 456,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 465,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 467,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 485,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 490,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 499,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 515,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 520,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 523,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 531,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 532,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 547,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 548,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 580,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 582,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        }
+      ],
+      "render_pages": 54,
+      "render_text_chars": 4237
+    },
+    {
+      "file": "C:\\Users\\value\\Desktop\\deck-replica-portable-v03\\deck-replica\\assets\\reusable-assets.pptx",
+      "bytes": 1513073,
+      "slides": 7,
+      "text_runs": 3,
+      "native_shapes": 3,
+      "pictures": 10,
+      "media_binaries": [],
+      "errors": [],
+      "source_object_text_checks": [
+        {
+          "original_page": 411,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 412,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 471,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 492,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 508,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 509,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        },
+        {
+          "original_page": 562,
+          "all_text_runs_identical": true,
+          "native_shape_count_identical": true,
+          "picture_count_identical": true
+        }
+      ],
+      "render_pages": 7,
+      "render_text_chars": 34
+    }
+  ],
+  "font_files_bundled": false,
+  "source_priority": "PPTX native object/text authoritative; PDF only visual comparison",
+  "remaining_visual_risk": "Missing proprietary fonts cause substituted glyphs and wrapping; source554 known split line. Static effects differ from original playback."
+}

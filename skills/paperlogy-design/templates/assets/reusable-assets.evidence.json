@@ -1,0 +1,220 @@
+{
+  "mode": "native-template-transfer",
+  "reference_mode": true,
+  "source": "D:\\보고서\\페이퍼로지_2024강의통합본.pptx",
+  "source_bytes": 2025034693,
+  "source_mtime_ns": 1701303940000000000,
+  "spec_sha256": "c79e0b28aad7f8aaccd175c7c1218ef22f7f1985032d43bf0264dee13d6ed986",
+  "script_sha256": "08cb65f1eff0318f276ec25b489a475e1f6b3014f005bb15ffd34067b343058c",
+  "slides": [
+    {
+      "output_page": 1,
+      "source_page": 411,
+      "source_part": "ppt/slides/slide411.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": []
+    },
+    {
+      "output_page": 2,
+      "source_page": 412,
+      "source_part": "ppt/slides/slide412.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": []
+    },
+    {
+      "output_page": 3,
+      "source_page": 471,
+      "source_part": "ppt/slides/slide471.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": []
+    },
+    {
+      "output_page": 4,
+      "source_page": 492,
+      "source_part": "ppt/slides/slide492.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": []
+    },
+    {
+      "output_page": 5,
+      "source_page": 508,
+      "source_part": "ppt/slides/slide508.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": []
+    },
+    {
+      "output_page": 6,
+      "source_page": 509,
+      "source_part": "ppt/slides/slide509.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": []
+    },
+    {
+      "output_page": 7,
+      "source_page": 562,
+      "source_part": "ppt/slides/slide562.xml",
+      "geometry_preserved": true,
+      "md_sections": null,
+      "slots": [
+        {
+          "shape_id": "3",
+          "source_text": "워드에나 쓸 법한 이야기를PPT에 올리니까 문제가 되는 것",
+          "new_text": "워드에나 쓸 법한 이야기를PPT에 올리니까 문제가 되는 것",
+          "xfrm": [
+            {
+              "off": {
+                "x": "3246967",
+                "y": "6063904"
+              }
+            },
+            {
+              "ext": {
+                "cx": "5698066",
+                "cy": "461665"
+              }
+            }
+          ],
+          "font_sizes": [
+            "1200"
+          ],
+          "fonts": [
+            "DS 최최최최최종 Bold"
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "Notes and animations removed for a static editable sample. Fonts retain source declarations; render substitution must be checked.",
+    "Static pack: audio/video/animations/notes/external links omitted; poster retained; raster images limited to 1920 px and JPEG quality 88; original font declarations retained, font files not bundled."
+  ],
+  "static_removed_relationships": [],
+  "optimized_images": [
+    {
+      "part": "ppt/media/image429.png",
+      "old_bytes": 1213371,
+      "new_bytes": 1129579,
+      "old_px": [
+        1171,
+        737
+      ],
+      "new_px": [
+        1171,
+        737
+      ]
+    },
+    {
+      "part": "ppt/media/image383.png",
+      "old_bytes": 18196,
+      "new_bytes": 17855,
+      "old_px": [
+        800,
+        950
+      ],
+      "new_px": [
+        800,
+        950
+      ]
+    },
+    {
+      "part": "ppt/media/image368.png",
+      "old_bytes": 49667,
+      "new_bytes": 30708,
+      "old_px": [
+        1000,
+        1000
+      ],
+      "new_px": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "part": "ppt/media/image369.png",
+      "old_bytes": 50950,
+      "new_bytes": 30749,
+      "old_px": [
+        1000,
+        1000
+      ],
+      "new_px": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "part": "ppt/media/image370.png",
+      "old_bytes": 45771,
+      "new_bytes": 26456,
+      "old_px": [
+        1000,
+        1000
+      ],
+      "new_px": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "part": "ppt/media/image366.png",
+      "old_bytes": 53169,
+      "new_bytes": 33419,
+      "old_px": [
+        1000,
+        1000
+      ],
+      "new_px": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "part": "ppt/media/image371.png",
+      "old_bytes": 43449,
+      "new_bytes": 24305,
+      "old_px": [
+        1000,
+        1000
+      ],
+      "new_px": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "part": "ppt/media/image367.png",
+      "old_bytes": 54855,
+      "new_bytes": 35048,
+      "old_px": [
+        1000,
+        1000
+      ],
+      "new_px": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "part": "ppt/media/image340.jpeg",
+      "old_bytes": 160095,
+      "new_bytes": 66415,
+      "old_px": [
+        977,
+        584
+      ],
+      "new_px": [
+        977,
+        584
+      ]
+    }
+  ],
+  "output_bytes": 1513073,
+  "parts": 128,
+  "explicit_font_fallback": null
+}
